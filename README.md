@@ -1,7 +1,7 @@
 
 # PhotoData
 
-`PhotoData` parses the [MPI-Mainz](http://satellite.mpic.de/spectral_atlas) photochemistry database of photolysis cross sections. `PhotoData` will retrieve all the data corresponding to a certain molecule, then try to knit together a single best series of photolysis cross section from all the data avaliable.
+`PhotoData` parses the [MPI-Mainz](http://satellite.mpic.de/spectral_atlas) photochemistry database of photolysis cross sections. `PhotoData` will retrieve all the data corresponding to a certain molecule, and will try to knit together a single best series of photolysis cross section from all the data avaliable.
 
 # Installation
 Install with pip:
