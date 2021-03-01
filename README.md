@@ -19,3 +19,5 @@ mpi.find_best_data() # find the best data
 # mpi.best_data = best data
 # mpi.best_data_citations = contains citations
 ```
+
+For a more in depth example see the `examples` folder.
