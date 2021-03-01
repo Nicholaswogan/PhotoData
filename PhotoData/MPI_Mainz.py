@@ -164,95 +164,108 @@ class MPI_Mainz():
 
         if best == 'single longest':
             ind = np.argmax([rn[1]-rn[0] for rn in rng])
+
             wavelengths = np.append(wavelengths,np.array(wv[ind])[:])
             cross_section = np.append(cross_section,np.array(xs[ind])[:])
             citation.append(papers[ind])
             bib.append(refs[ind])
-            citations = [citation[0],bib[0]]
-            wavelengths1 = np.arange(wavelengths.min(),wavelengths.max(),.5)
-            cross_section1 = np.interp(wavelengths1,wavelengths,cross_section)
-            return wavelengths1, cross_section1, citations
+            citations = [citation[0],[wavelengths.min(),wavelengths.max()],bib[0]]
+            citations1 = {}
+            citations1['citation'] = [citations[0]]
+            citations1['wavelength range'] = [citations[1]]
+            citations1['bibtex'] = [citations[2]]
 
-        if wv_range==None:
-            bins = np.arange(tot_rng[0],tot_rng[1],self.bin_width)
-            bins[-1] = tot_rng[1]
+            best_data = {}
+            best_data['wavelength'] = wavelengths
+            best_data['cross section'] = cross_section
+
+            self.best_data_citations = citations1
+            self.best_data = best_data
+
+            if output:
+                return best_data, citations1
         else:
-            bins = np.arange(wv_range[0],wv_range[1],self.bin_width)
-            bins[-1] = wv_range[1]
 
-        for j in range(len(bins)-1):
-            options = []
-            for i in range(len(rng)):
-                if rng[i][0]<=bins[j] and rng[i][1]>=bins[j+1] and np.min(xs[i])>=0:
-                    temp_ind = np.where(((np.array(wv[i])<=bins[j+1]) & (bins[j]<=np.array(wv[i]))))[0]
-                    if len(temp_ind)==0:
-                        temp_res = 0
-                    else:
-                        temp_wv = np.array(wv[i])[temp_ind]
-                        temp_xs = np.array(xs[i])[temp_ind]
-                        if (np.max(temp_wv)-np.min(temp_wv))==0:
+            if wv_range==None:
+                bins = np.arange(tot_rng[0],tot_rng[1],self.bin_width)
+                bins[-1] = tot_rng[1]
+            else:
+                bins = np.arange(wv_range[0],wv_range[1],self.bin_width)
+                bins[-1] = wv_range[1]
+
+            for j in range(len(bins)-1):
+                options = []
+                for i in range(len(rng)):
+                    if rng[i][0]<=bins[j] and rng[i][1]>=bins[j+1] and np.min(xs[i])>=0:
+                        temp_ind = np.where(((np.array(wv[i])<=bins[j+1]) & (bins[j]<=np.array(wv[i]))))[0]
+                        if len(temp_ind)==0:
                             temp_res = 0
                         else:
-                            temp_res = len(temp_wv)/(np.max(temp_wv)-np.min(temp_wv))
-                    options.append([i,temp_res,yr[i],np.mean(np.log10(temp_xs))])
-            if len(options)==0:
-                citation.append('No data')
-                bib.append('No data')
-                continue
+                            temp_wv = np.array(wv[i])[temp_ind]
+                            temp_xs = np.array(xs[i])[temp_ind]
+                            if (np.max(temp_wv)-np.min(temp_wv))==0:
+                                temp_res = 0
+                            else:
+                                temp_res = len(temp_wv)/(np.max(temp_wv)-np.min(temp_wv))
+                        options.append([i,temp_res,yr[i],np.mean(np.log10(temp_xs))])
+                if len(options)==0:
+                    citation.append('No data')
+                    bib.append('No data')
+                    continue
 
-            if best == 'max resolution':
-                max_res = np.argmax([val[1] for val in options])
-                ind = options[max_res][0]
+                if best == 'max resolution':
+                    max_res = np.argmax([val[1] for val in options])
+                    ind = options[max_res][0]
 
-            elif best == 'most recent':
-                max_yr = np.argmax([val[2] for val in options])
-                ind = options[max_yr][0]
+                elif best == 'most recent':
+                    max_yr = np.argmax([val[2] for val in options])
+                    ind = options[max_yr][0]
 
-            elif best == 'smallest xsection':
-                smallest = np.argmin([val[3] for val in options])
-                ind = options[smallest][0]
+                elif best == 'smallest xsections':
+                    smallest = np.argmin([val[3] for val in options])
+                    ind = options[smallest][0]
 
-            elif best == 'largest xsections':
-                smallest = np.argmax([val[3] for val in options])
-                ind = options[smallest][0]
+                elif best == 'largest xsections':
+                    smallest = np.argmax([val[3] for val in options])
+                    ind = options[smallest][0]
 
-            inds = np.where(((np.array(wv[ind])<=bins[j+1]) & (bins[j]<=np.array(wv[ind]))))[0]
-            wavelengths = np.append(wavelengths,np.array(wv[ind])[inds])
-            cross_section = np.append(cross_section,np.array(xs[ind])[inds])
-            citation.append(papers[ind])
-            bib.append(refs[ind])
+                inds = np.where(((np.array(wv[ind])<=bins[j+1]) & (bins[j]<=np.array(wv[ind]))))[0]
+                wavelengths = np.append(wavelengths,np.array(wv[ind])[inds])
+                cross_section = np.append(cross_section,np.array(xs[ind])[inds])
+                citation.append(papers[ind])
+                bib.append(refs[ind])
 
-        citations = []
-        j = 0
-        bk_flag = False
-        while True:
-            for i in range(j,len(citation)):
-                if not citation[j]==citation[i]:
-                    citations.append([citation[j],[bins[j],bins[i]],bib[j]])
-                    j = i
+            citations = []
+            j = 0
+            bk_flag = False
+            while True:
+                for i in range(j,len(citation)):
+                    if not citation[j]==citation[i]:
+                        citations.append([citation[j],[bins[j],bins[i]],bib[j]])
+                        j = i
+                        break
+                    if i == len(citation)-1:
+                        citations.append([citation[j],[bins[j],bins[-1]],bib[j]])
+                        bk_flag= True
+                if bk_flag:
                     break
-                if i == len(citation)-1:
-                    citations.append([citation[j],[bins[j],bins[-1]],bib[j]])
-                    bk_flag= True
-            if bk_flag:
-                break
-            if i>10000:
-                sys.exit('Something went wrong while sorting references')
+                if i>10000:
+                    sys.exit('Something went wrong while sorting references')
 
-        citations1 = {}
-        citations1['citation'] = [cit[0] for cit in citations]
-        citations1['wavelength range'] = [cit[1] for cit in citations]
-        citations1['bibtex'] = [cit[2] for cit in citations]
+            citations1 = {}
+            citations1['citation'] = [cit[0] for cit in citations]
+            citations1['wavelength range'] = [cit[1] for cit in citations]
+            citations1['bibtex'] = [cit[2] for cit in citations]
 
-        best_data = {}
-        best_data['wavelength'] = wavelengths
-        best_data['cross section'] = cross_section
+            best_data = {}
+            best_data['wavelength'] = wavelengths
+            best_data['cross section'] = cross_section
 
-        self.best_data_citations = citations1
-        self.best_data = best_data
+            self.best_data_citations = citations1
+            self.best_data = best_data
 
-        if output:
-            return best_data, citations1
+            if output:
+                return best_data, citations1
 
     def get_atmos_data(self,species,output = False):
         wv_vpl = []
