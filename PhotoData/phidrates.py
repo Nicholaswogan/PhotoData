@@ -56,7 +56,7 @@ class phidrates():
 
         # get data
         data = {}
-        if 'Total' in name_branches:
+        if 'Total' in name_branches or 'total' in name_branches:
             # nm
             data['wavelength'] = np.array([float(dat.strip().split()[0])/10. for dat in file[inds[-1]+2:]])
             data['Total'] = np.array([float(dat.strip().split()[1]) for dat in file[inds[-1]+2:]])
