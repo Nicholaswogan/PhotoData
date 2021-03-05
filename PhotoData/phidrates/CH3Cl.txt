@@ -1,0 +1,87 @@
+0          References for Cross Section of CH3Cl     CH3/Cl  
+Cross section:                                                                  
+Lambda = 0.61-625.80 A                                                          
+   Synthesized from cross sections of atomic constituents C +3*H + Cl           
+   Barfield, W. D., Koontz, G. D., Huebner W. F. (1972)                         
+   J. Quant. Spectr. Rad. Trans. 12, 1409                                       
+Lambda = 1580.-1733. A                                                          
+   Hubrich, C., Zetzsch, C., Stuhl, F. (1977)                                   
+   Ber. Bunsen-Ges. 81, 437                                                     
+Lambda = 1860.-2160. A                                                          
+   Vanlaethem-Meuree, N., Wisemberg, J., Simon, P. C. (1978)                    
+   Bull. Acad. Roy. Belgigue, Cl. Sci., 64, 31                                  
+Lambda = 1740.-1840.                                                            
+   Robbins, D. E. (1976)                                                        
+   Geophys. Res. Lett. 3, 213 and 3, 757                                        
+Lambda = 2180.-2200. A                                                          
+   Robbins, D. E. (1976)                                                        
+   Geophys. Res. Lett. 3, 213 and 3, 757                                        
+Lambda = 2233.-2350. A                                                          
+   Hubrich, C., Zetzsch, C., Stuhl, F. (1977)                                   
+   Ber. Bunsen-Ges. 81, 437                                                     
+Threshold:                                                                      
+Lambda = 3470. A                                                                
+   Okabe, H. (1978)                                                             
+   Photochemistry of small molecules, John Wiley & Sons, New York               
+                                                                                
+0 Branching ratio for CH3Cl    CH3/Cl       0 branches
+  Lambda  CH3/Cl  
+    0.61  4.06E-22
+    1.12  3.39E-21
+    2.44  2.25E-20
+    6.15  3.07E-20
+   12.57  2.15E-19
+   24.62  1.21E-18
+   62.09  4.63E-19
+  121.70  1.47E-18
+  248.60  3.33E-18
+  625.80  4.86E-17
+ 1580.00  1.44E-18
+ 1590.00  4.05E-17
+ 1595.00  8.24E-17
+ 1600.00  1.10E-17
+ 1605.00  5.30E-18
+ 1610.00  2.77E-18
+ 1620.00  1.35E-18
+ 1625.00  1.15E-18
+ 1630.00  1.09E-18
+ 1633.00  1.06E-18
+ 1640.00  7.65E-19
+ 1650.00  7.59E-19
+ 1660.00  7.48E-19
+ 1670.00  1.00E-18
+ 1680.00  1.07E-18
+ 1690.00  1.15E-18
+ 1700.00  1.26E-18
+ 1710.00  1.21E-18
+ 1720.00  1.16E-18
+ 1730.00  1.17E-18
+ 1733.00  1.28E-18
+ 1740.00  1.10E-18
+ 1760.00  9.30E-19
+ 1780.00  7.73E-19
+ 1800.00  6.35E-19
+ 1820.00  4.65E-19
+ 1840.00  3.47E-19
+ 1860.00  2.47E-19
+ 1880.00  1.75E-19
+ 1900.00  1.27E-19
+ 1920.00  8.86E-20
+ 1940.00  6.03E-20
+ 1960.00  4.01E-20
+ 1980.00  2.66E-20
+ 2000.00  1.76E-20
+ 2020.00  1.09E-20
+ 2040.00  6.91E-21
+ 2060.00  4.83E-21
+ 2080.00  3.21E-21
+ 2100.00  2.06E-21
+ 2120.00  1.32E-21
+ 2140.00  8.80E-22
+ 2160.00  6.00E-22
+ 2180.00  3.60E-22
+ 2200.00  2.30E-22
+ 2233.00  1.17E-22
+ 2250.00  7.86E-23
+ 2350.00  6.23E-24
+ 3470.00  1.00E-26

@@ -1,0 +1,142 @@
+Al             | https://phidrates.space.swri.edu/phidrates_images/filee3QMxg/BrnOut    | Al+ + e   
+Ar             | https://phidrates.space.swri.edu/phidrates_images/fileffJNdy/BrnOut    | Ar+ + e   
+B              | https://phidrates.space.swri.edu/phidrates_images/filexVQIof/BrnOut    | B+ + e    
+Be             | https://phidrates.space.swri.edu/phidrates_images/fileqTtg2g/BrnOut    | Be+ + e   
+C3P            | https://phidrates.space.swri.edu/phidrates_images/fileTRMoMd/BrnOut    | C+ + e    
+C1D            | https://phidrates.space.swri.edu/phidrates_images/fileXcs2Vy/BrnOut    | C+ + e    
+C1S            | https://phidrates.space.swri.edu/phidrates_images/fileF_eAR1/BrnOut    | C+ + e    
+Ca             | https://phidrates.space.swri.edu/phidrates_images/fileNhdL9U/BrnOut    | Ca+ + e   
+Cl             | https://phidrates.space.swri.edu/phidrates_images/file6GOzIh/BrnOut    | Cl+ + e   
+Co             | https://phidrates.space.swri.edu/phidrates_images/fileAQiBzi/BrnOut    | Co+ + e   
+Cr             | https://phidrates.space.swri.edu/phidrates_images/filew3vInR/BrnOut    | Cr+ + e   
+Cu             | https://phidrates.space.swri.edu/phidrates_images/file4InlO9/BrnOut    | Cu+ + e   
+F              | https://phidrates.space.swri.edu/phidrates_images/file17Sd08/BrnOut    | F+ + e    
+Fe             | https://phidrates.space.swri.edu/phidrates_images/fileFGKuNr/BrnOut    | Fe+ + e   
+H              | https://phidrates.space.swri.edu/phidrates_images/fileBYchE9/BrnOut    | H+ + e    
+He             | https://phidrates.space.swri.edu/phidrates_images/file5Ed55b/BrnOut    | He+ + e   
+K              | https://phidrates.space.swri.edu/phidrates_images/file01F_OV/BrnOut    | K+ + e    
+Li             | https://phidrates.space.swri.edu/phidrates_images/filepZPCWX/BrnOut    | Li+ + e   
+Mg             | https://phidrates.space.swri.edu/phidrates_images/filefnje0l/BrnOut    | Mg+ + e   
+Mn             | https://phidrates.space.swri.edu/phidrates_images/filekuo4Ce/BrnOut    | Mn+ + e   
+N              | https://phidrates.space.swri.edu/phidrates_images/fileSROb0Y/BrnOut    | N+ + e    
+Na             | https://phidrates.space.swri.edu/phidrates_images/file2PLynv/BrnOut    | Na+ + e   
+Ne             | https://phidrates.space.swri.edu/phidrates_images/fileo2Nv1T/BrnOut    | Ne+ + e   
+Ni             | https://phidrates.space.swri.edu/phidrates_images/file3MJP5p/BrnOut    | Ni+ + e   
+O3P            | https://phidrates.space.swri.edu/phidrates_images/filegb0BYy/BrnOut    | O+ + e    
+O1D            | https://phidrates.space.swri.edu/phidrates_images/file3CXyk4/BrnOut    | O+ + e    
+O1S            | https://phidrates.space.swri.edu/phidrates_images/fileRgGlT8/BrnOut    | O+ + e    
+P              | https://phidrates.space.swri.edu/phidrates_images/filev3PcXx/BrnOut    | P+        
+S3P            | https://phidrates.space.swri.edu/phidrates_images/fileCggkjr/BrnOut    | S+ + e    
+S1D            | https://phidrates.space.swri.edu/phidrates_images/fileh5Ed7S/BrnOut    | S+ + e    
+S1S            | https://phidrates.space.swri.edu/phidrates_images/fileR8Xgz3/BrnOut    | S+ + e    
+Sc             | https://phidrates.space.swri.edu/phidrates_images/filen_CgHB/BrnOut    | Sc+ + e   
+Si             | https://phidrates.space.swri.edu/phidrates_images/files4_umx/BrnOut    | Si+ + e   
+Ti             | https://phidrates.space.swri.edu/phidrates_images/fileV7m3F1/BrnOut    | Ti+ + e   
+V              | https://phidrates.space.swri.edu/phidrates_images/file6rZlC4/BrnOut    | V+ + e    
+Xe             | https://phidrates.space.swri.edu/phidrates_images/filegUiQIW/BrnOut    | Xe+ + e   
+Zn             | https://phidrates.space.swri.edu/phidrates_images/fileAJjGAv/BrnOut    | Zn+ + e   
+H-             | https://phidrates.space.swri.edu/phidrates_images/file3hsYWe/BrnOut    | Total     | H+ + 2e   | H + e     
+Al+            | https://phidrates.space.swri.edu/phidrates_images/fileF2KlkW/BrnOut    | Al2+ + e  
+Ar+            | https://phidrates.space.swri.edu/phidrates_images/file6zJ6At/BrnOut    | Ar2+ + e  
+B+             | https://phidrates.space.swri.edu/phidrates_images/file6CBzoe/BrnOut    | B2+ + e   
+Be+            | https://phidrates.space.swri.edu/phidrates_images/file4cEa9H/BrnOut    | Be2+ + e  
+C+             | https://phidrates.space.swri.edu/phidrates_images/fileN8Ap7t/BrnOut    | C2+ + e   
+Ca+            | https://phidrates.space.swri.edu/phidrates_images/file_JGEcp/BrnOut    | Ca2+ + e  
+Cl+            | https://phidrates.space.swri.edu/phidrates_images/fileQ4iwP0/BrnOut    | Cl2+ + e  
+Co+            | https://phidrates.space.swri.edu/phidrates_images/filekwnthN/BrnOut    | Co2+ + e  
+Cr+            | https://phidrates.space.swri.edu/phidrates_images/fileFakt1b/BrnOut    | Cr2+ + e  
+Cu+            | https://phidrates.space.swri.edu/phidrates_images/fileI1CBaf/BrnOut    | Cu2+ + e  
+F+             | https://phidrates.space.swri.edu/phidrates_images/fileIKkWQ2/BrnOut    | F2+ + e   
+Fe+            | https://phidrates.space.swri.edu/phidrates_images/filesOr26Z/BrnOut    | Fe2+ + e  
+He+            | https://phidrates.space.swri.edu/phidrates_images/file3xR4Lh/BrnOut    | He2+ + e  
+K+             | https://phidrates.space.swri.edu/phidrates_images/filedd7o14/BrnOut    | K2+ + e   
+Li+            | https://phidrates.space.swri.edu/phidrates_images/filebVYikI/BrnOut    | Li2+ + e  
+Mg+            | https://phidrates.space.swri.edu/phidrates_images/file7yqtS4/BrnOut    | Mg2+ + e  
+Mn+            | https://phidrates.space.swri.edu/phidrates_images/filem2alHD/BrnOut    | Mn2+ + e  
+N+             | https://phidrates.space.swri.edu/phidrates_images/fileLssy0I/BrnOut    | N2+ + e   
+Na+            | https://phidrates.space.swri.edu/phidrates_images/filer4AIMM/BrnOut    | Na2+ + e  
+Ne+            | https://phidrates.space.swri.edu/phidrates_images/filecIFlO3/BrnOut    | Ne2+ + e  
+Ni+            | https://phidrates.space.swri.edu/phidrates_images/fileuikdI3/BrnOut    | Ni2+ + e  
+O+             | https://phidrates.space.swri.edu/phidrates_images/fileJNYhQQ/BrnOut    | O2+ + e   
+P+             | https://phidrates.space.swri.edu/phidrates_images/fileqVG7Ow/BrnOut    | P2+ + e   
+S+             | https://phidrates.space.swri.edu/phidrates_images/fileH1Fv1m/BrnOut    | S2+       
+Sc+            | https://phidrates.space.swri.edu/phidrates_images/fileyH4ZSR/BrnOut    | Sc2+ + e  
+Si+            | https://phidrates.space.swri.edu/phidrates_images/file88oqDj/BrnOut    | Si2+ + e  
+Ti+            | https://phidrates.space.swri.edu/phidrates_images/fileXl_KcS/BrnOut    | Ti2+ + e  
+V+             | https://phidrates.space.swri.edu/phidrates_images/fileOVoGsJ/BrnOut    | V2+ + e   
+Zn+            | https://phidrates.space.swri.edu/phidrates_images/fileBuy9Jf/BrnOut    | Zn2+ + e  
+BrO            | https://phidrates.space.swri.edu/phidrates_images/file6TcJXd/BrnOut    | Total     | Br + O(3P)| Br + O(1D)
+C2             | https://phidrates.space.swri.edu/phidrates_images/fileCAVdWp/BrnOut    | Total     | C(1D) + C(1D)| C2+ + e   
+CH             | https://phidrates.space.swri.edu/phidrates_images/fileuqCink/BrnOut    | Total     | CH+ + e   | C(1S) + H | C(1D) + H | C(3P) + H 
+CN             | https://phidrates.space.swri.edu/phidrates_images/fileejTGTe/BrnOut    | C + N     
+sCO            | https://phidrates.space.swri.edu/phidrates_images/fileRBrs3f/BrnOut    | Total     | CO+ + e   | C+ + O + e| O+ + C + e| C + O     | C(1D) + O(1D)
+tCO            | https://phidrates.space.swri.edu/phidrates_images/filed3vBC9/BrnOut    | Total     | CO+ + e   | C+ + O + e| O+ + C + e| C + O     
+Cl2            | https://phidrates.space.swri.edu/phidrates_images/file3Oc02s/BrnOut    | Cl + Cl   
+F2             | https://phidrates.space.swri.edu/phidrates_images/fileIHmekd/BrnOut    | F + F     
+H2             | https://phidrates.space.swri.edu/phidrates_images/file2P1w3U/BrnOut    | Total     | H + H(2s, 2p)| H + H     | H2+ + e   | H+ + H + e
+HCl            | https://phidrates.space.swri.edu/phidrates_images/fileg_QVus/BrnOut    | H + Cl    
+HF             | https://phidrates.space.swri.edu/phidrates_images/file5ScBs6/BrnOut    | Total     | HF+ + e   | H+ + F + e| H + F     | F+ + H + e
+N2             | https://phidrates.space.swri.edu/phidrates_images/filejgd6bQ/BrnOut    | Total     | N + N     | N+ + N + e| N2+ + e   
+NO             | https://phidrates.space.swri.edu/phidrates_images/filepJh3wg/BrnOut    | Total     | NO+ + e   | O+ + N + e| N+ + O + e| N + O     
+O2             | https://phidrates.space.swri.edu/phidrates_images/file7BYgOQ/BrnOut    | Total     | O(3P) + O(3P)| O(3P) + O(1D)| O+ + O + e| O(1S) + O(1S)| O2+ + e   
+OHt            | https://phidrates.space.swri.edu/phidrates_images/fileegizGp/BrnOut    | Total     | O(3P) + H | O(1S) + H | OH+ + e   | O(1D) + H 
+OHe            | https://phidrates.space.swri.edu/phidrates_images/file6bCbZm/BrnOut    | Total     | O(3P) + H | O(1S) + H | OH+ + e   | O(1D) + H 
+SO             | https://phidrates.space.swri.edu/phidrates_images/file_WdFAC/BrnOut    | Total     | S + O     | SO+ + e   
+CO2            | https://phidrates.space.swri.edu/phidrates_images/file9jA7UB/BrnOut    | Total     | CO(X1Σ+) + O(1D)| CO2+ + e  | CO+ + O + e| O+ + CO + e| C+ + O2 + e| CO(X1Σ+) + O(3P)| CO(a3Π) + O(3P)
+CS2            | https://phidrates.space.swri.edu/phidrates_images/file_m0ZCJ/BrnOut    | Total     | C+ + S2 + e| S+ + CS + e| CS+ + S + e| S2+ + C + e| CS2+ + e  | CS(X1Σ+) + S(3P)| CS(X1Σ+) + S(1D)| CS(a3Π) + S(3P)| CS(A1Π) + S(3P)
+ClNO           | https://phidrates.space.swri.edu/phidrates_images/filev6lqjo/BrnOut    | Cl + NO   
+ClOO           | https://phidrates.space.swri.edu/phidrates_images/file_dCoDc/BrnOut    | ClO + O(3P)
+H2O            | https://phidrates.space.swri.edu/phidrates_images/filePnxUyi/BrnOut    | Total     | H + OH    | H2 + O(1D)| O + H + H | OH+ + H + e| O+ + H2 + e| H+ + OH + e| H2O+ + e  
+H2S            | https://phidrates.space.swri.edu/phidrates_images/filexmzPNO/BrnOut    | Total     | HS + H    | H2S+ + e  | S+ + H2 + e| HS+ + H + e
+HCN            | https://phidrates.space.swri.edu/phidrates_images/fileEXUCVt/BrnOut    | Total     | H + CN(A2Πi)| HCN+ + e  
+HO2            | https://phidrates.space.swri.edu/phidrates_images/fileUegXkY/BrnOut    | OH + O    
+HOBr           | https://phidrates.space.swri.edu/phidrates_images/fileSBU1KR/BrnOut    | OH + Br   
+HOCl           | https://phidrates.space.swri.edu/phidrates_images/fileMhr0PY/BrnOut    | OH + Cl   
+HOI            | https://phidrates.space.swri.edu/phidrates_images/fileKfIEXF/BrnOut    | OH + I    
+INO            | https://phidrates.space.swri.edu/phidrates_images/fileRlncku/BrnOut    | I + NO    
+N2O            | https://phidrates.space.swri.edu/phidrates_images/fileIksABt/BrnOut    | Total     | N2(1Σ) + O(1S)| N2(1Σ) + O(1D)
+NH2            | https://phidrates.space.swri.edu/phidrates_images/fileQb6ZsQ/BrnOut    | NH + H    
+NO2            | https://phidrates.space.swri.edu/phidrates_images/fileeoenIF/BrnOut    | Total     | NO2+ + e  | NO(X2Π) + O(1D)| NO(X2Π) + O(3P)
+O3             | https://phidrates.space.swri.edu/phidrates_images/fileUVUpNB/BrnOut    | Total     | O(3P) + O2(3Σg-)| O(1D) + O2(a1Δg)
+OCS            | https://phidrates.space.swri.edu/phidrates_images/fileYsbZaR/BrnOut    | Total     | C+ + SO + e| O+ + CS + e| CO+ + S + e| S+ + CO + e| CS+ + O + e| COS+      | CO + S(1S)| CS + O(3P)| CO + S(1D)| CS + O(1D)| CO + S(3P)
+OClO           | https://phidrates.space.swri.edu/phidrates_images/filehCcXTy/BrnOut    | Total     | ClO + O(3P)| ClO + O(1D)
+SO2            | https://phidrates.space.swri.edu/phidrates_images/fileJn5uFe/BrnOut    | Total     | SO + O    | S + O2    | SO2*      | SO2+ + e  
+C2H2           | https://phidrates.space.swri.edu/phidrates_images/filecm4YCL/BrnOut    | Total     | C2H2+ + e | C2H+ + H + e| C2 + H2   | C2H + H   | C2H2*     
+ClO3           | https://phidrates.space.swri.edu/phidrates_images/fileYny0BP/BrnOut    | ClO2 + O  
+ClNO2          | https://phidrates.space.swri.edu/phidrates_images/fileeLaxCE/BrnOut    | Cl + NO2  
+ClONO          | https://phidrates.space.swri.edu/phidrates_images/fileVv4XOR/BrnOut    | Cl + NO2  
+COCl2          | https://phidrates.space.swri.edu/phidrates_images/fileC3Yw_P/BrnOut    | COCl + Cl 
+COF2           | https://phidrates.space.swri.edu/phidrates_images/filegljbm5/BrnOut    | COF + F   
+COFCl          | https://phidrates.space.swri.edu/phidrates_images/file8Y20O1/BrnOut    | COF + Cl  
+H2CO           | https://phidrates.space.swri.edu/phidrates_images/fileBaq4ck/BrnOut    | Total     | HCO + H   | CO + H2   | CO + H + H| H2CO+ + e | HCO+ + H + e| CO+ + H2 + e
+H2O2           | https://phidrates.space.swri.edu/phidrates_images/fileL_rhVP/BrnOut    | OH + OH   
+HNCO           | https://phidrates.space.swri.edu/phidrates_images/filefZ0vWd/BrnOut    | Total     | NH(c1Π) + CO| H + NCO(A2Σ)
+HONO           | https://phidrates.space.swri.edu/phidrates_images/filewAP8Oi/BrnOut    | OH + NO   
+NH3            | https://phidrates.space.swri.edu/phidrates_images/filehumThh/BrnOut    | Total     | NH2(X2B1) + H| NH(a1Δ) + H2| NH(X3Σ-) + H + H| NH3+ + e  | NH2+ + H + e| NH+ + H2 + e| N+ + H2 + H + e| H+ + NH2 + e
+NO3            | https://phidrates.space.swri.edu/phidrates_images/fileJMUBe1/BrnOut    | Total     | NO2 + O   | NO + O2   
+PH3            | https://phidrates.space.swri.edu/phidrates_images/file14rOoE/BrnOut    | PH2 + H   
+BrONO2         | https://phidrates.space.swri.edu/phidrates_images/filetfwDvG/BrnOut    | BrO + NO2 
+CCl4           | https://phidrates.space.swri.edu/phidrates_images/file1TOU0g/BrnOut    | Total     | CCl3 + Cl | CCl2 + Cl + Cl
+CF2Cl2         | https://phidrates.space.swri.edu/phidrates_images/filek6r4LH/BrnOut    | Total     | CF2Cl + Cl| CF2 + Cl + Cl
+CFCl3          | https://phidrates.space.swri.edu/phidrates_images/fileMRbQcB/BrnOut    | Total     | CFCl2 + Cl| CFCl + Cl + Cl
+CH4            | https://phidrates.space.swri.edu/phidrates_images/file3EiXWj/BrnOut    | Total     | CH2(a1A1) + H2| CH3 + H   | CH2 + H + H| CH4+ + e  | CH3+ + H + e| CH2+ + H2 + e| CH+ + H2 + H + e| H+ + CH3 + e| CH + H2 + H
+CH3Cl          | https://phidrates.space.swri.edu/phidrates_images/fileQL2a41/BrnOut    | CH3 + Cl  
+CHF2Cl         | https://phidrates.space.swri.edu/phidrates_images/fileA95xVX/BrnOut    | CHF2 + Cl 
+ClONO2         | https://phidrates.space.swri.edu/phidrates_images/file7XtiXb/BrnOut    | Total     | ClONO + O | Cl + NO3  
+HCOOH          | https://phidrates.space.swri.edu/phidrates_images/fileq6dgx9/BrnOut    | Total     | CO2 + H2  | HCOOH+ + e| HCO+ + OH + e| HCO + OH  
+HC3N           | https://phidrates.space.swri.edu/phidrates_images/fileoRfdg4/BrnOut    | CN + C2H  
+HNO3           | https://phidrates.space.swri.edu/phidrates_images/filewXeB9w/BrnOut    | OH + NO2  
+IONO2          | https://phidrates.space.swri.edu/phidrates_images/fileBEJ455/BrnOut    | IO + NO2  
+C2H4           | https://phidrates.space.swri.edu/phidrates_images/fileUWeHoZ/BrnOut    | Total     | C2H4+ + e | C2H2+ + H2 + e| C2H3+ + H + e| C2H2 + H + H| C2H2 + H2 
+C2H6           | https://phidrates.space.swri.edu/phidrates_images/filez1vha1/BrnOut    | Total     | CH3 + CH3 | C2H5 + H  | 1CH2 + CH4| C2H6+ + e | C2H4 + H2 
+CH3CCl3        | https://phidrates.space.swri.edu/phidrates_images/filen3q157/BrnOut    | CH3CCl2 + Cl
+CH3CHO         | https://phidrates.space.swri.edu/phidrates_images/filehRQM6j/BrnOut    | Total     | CH4 + CO  | CH3 + HCO | 3CH3 + CHO
+CH3CN          | https://phidrates.space.swri.edu/phidrates_images/fileMfFGy_/BrnOut    | Total     | CH3CN+    | CH2CN+H   | CHCN+H2   | CH2+HCN   | CH2CN/H   | CH3/CNB2  | CH3/CNA2  
+CH3CNO5        | https://phidrates.space.swri.edu/phidrates_images/fileaI0mUl/BrnOut    | Total     | CH3CO3 + NO2| CH3CO2 + NO3
+CH3O2NO2       | https://phidrates.space.swri.edu/phidrates_images/fileMh7xLb/BrnOut    | Total     | CH3O2 + NO2| CH3O + NO3
+CH3OH          | https://phidrates.space.swri.edu/phidrates_images/file4HRnRj/BrnOut    | Total     | CH3 + OH  | CH3OH+ + e| CH3O+ + H + e| H2CO+ + H2 + e| H2CO + H2 
+CH3OOH         | https://phidrates.space.swri.edu/phidrates_images/fileUIfagN/BrnOut    | CH3O + OH 
+CH3SH          | https://phidrates.space.swri.edu/phidrates_images/filevnVMRO/BrnOut    | Total     | CH3S + H  | CH3 + SH  
+CH3SSCH3       | https://phidrates.space.swri.edu/phidrates_images/file6n2psq/BrnOut    | Total     | CH3SS + CH3| CH3S + CH3S
+HO2NO2         | https://phidrates.space.swri.edu/phidrates_images/fileJh5Ey1/BrnOut    | Total     | HO + NO3  | HO2 + NO2 
+N2O5           | https://phidrates.space.swri.edu/phidrates_images/fileMai1g5/BrnOut    | NO2 + NO2 + O

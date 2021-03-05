@@ -1,0 +1,245 @@
+Moortgat, G. K., Warneck, P. (1975) Z. Naturforsch. 30A, 835
+Goodeve, C. F., Katz, S. (1939)
+Okabe, H. (1975) J. Chem. Phys. 62, 2782
+Lykke, K. R., Murray, K. K., Lineberger, W. C., (1991) Phys. Rev. A 43, 6104-6107. Rienstra-Kiracofe, J. C., Tschumper, G. S., F. Schaefer III, H. F.,
+Bates, D. R., Spitzer, L. (1951) Astrophys. J. 113, 441
+Cook, G. R., Metzger, P. H. Ogawa, M. (1965) Can. J. Phys. 43, 1706
+Barsuhn, J., Nesbet, R. K. (1978) J. Chem. Phys. 68, 2783
+Cairns, R. B., Samson, J. A. R. (1965) J. Geophys. Res. 70, 99
+Carnovale, F., Hitchcock, A. P., Cook, J. P. D., Brion, C. E. (1982) Chem. Phys. 66, 249
+Sugar, J., Corliss, C. (1985) J. Phys. Chem. Ref. Data 14, Suppl. 2.
+Yao, F., Wilson, I., Johnston, H. (1982) J. Phys. Chem. 86, 3611
+Mcelroy, M. B., Mcconnell, J. C. (1971) J. Geophys. Res. 76, 6674
+Calvert, J. G., Pitts, Jr. J. N. (1966) Photochemistry, John Wiley & sons, Inc., New York, NY.
+Phillips, L. F. (1981) J. Phys. Chem. 85, 3994
+Velchev, I., Hogervorst, W., Ubachs, W. (1999) J. Phys. B 32, L511-L516.
+Brolley, J. E., Porter, l. E., Sherman, R. H., Theobald, J. K., Fong, J. C. (
+Nakata, R. S., Watanabe, K., Matsunaga, F. M. (1965) Science of Light 14, 54
+Schoen, R. I. (1962) J. Chem. Phys. 37, 2032
+Mount, G. H., Moos, H. W. (1978) Astrophys. J. (Letters) 224, l35
+Brion, C. E., Tan, K. H. (1979) J. Electron Spectr. Related Phenom. 17, 101
+Zelikoff, M., Watanabe, K. (1953) J. Opt. Soc. Am. 43, 756
+Lee, L. C., Chiang, C. C. (1982) Chem. Phys. Lett. 92, 425
+Martin, W. C., Zalubas, R., Musgrove, A. (1985)
+Huffman, R. E. (1969) Can. J. Chem. 47, 1823 sigma = 3.70E-16
+West, G. A., Berry, M. J. (1974) J. Chem. Phys. 61, 4700
+Herzberg, G., Monfils, A. (1960) J. Mol. Spectr. 5, 482
+Mcnesby, J. R., Tanaka, I., Okabe, J. (1962) J. Chem. Phys. 36, 605.
+Dibeler, V. H., Liston, S. K. (1968), J. Chem. Phys. 48, 4765, doi:http://dx.doi.org/10.1063/1.1668059.
+Drake, G. W. F., Martin, W. C., (2001) Unpublished data.
+Radziemski, Jr., L. J., Kaufman, V. (1969) J. Opt. Soc. Am. 59, 424-443.
+Cook, G. R., Metzger, P. H. (1964) J. Chem. Phys. 41, 321
+Hayden, C. C., Neumark, D. M., Shobatake, K., Sparks, R. K., Lee, Y. T. (1982 J. Chem. Phys. 76, 3607
+Cook, G. R., Metzger, P. H. (1964) J. Opt. Soc. Am. 54, 968
+Okabe, H. (1981) J. Chem. Phys. 75, 2772
+Kaufman, V. and Minnhagen, L. (1972) J. Opt. Soc. Am. 62, 92-95.
+Okabe, H. (1978) Photochemistry of Small Molecules, Wiley-Interscience Pub., New York
+Sun, H., Weissler, G. L. (1955) J. Chem. Phys. 23, 1160
+Wu, C. Y. R., Judge, D. L. (1981) J. Chem. Phys. 74, 3804
+Nuth, J. A., Glicker, S. (1982) J. Quant. Spectr. Rad. Trans. 28, 223-231.
+Guertler, P., Saile, V., Koch, E. E. (1977) Chem. Phys. Lett. 48, 245
+Connors, R. E., Roebber, J. L., Weiss, K. (1974) J. Chem. Phys. 60, 5011
+Schurath, U., Tiedemann, P., Schindler, R. M. (1969) J. Phys. Chem. 73, 456.
+Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409
+Bortner, M. H., Baurer, T. (1978) Defense Nuclear Agency Reaction Rate Handbook, DNA 1948h, 2nd ed., rev. Nr. 7
+Calvert, J. G., Pitts, Jr. J. N. (1966) Photochemistry, John Wiley & Sons, Inc., New York, NY.
+Molina, L. T., Molina, M. J. (1980) Ultraviolet Absorption Cross Sections of HO2NO2 Vapor, Report No. FAA-eE-80-0
+Okabe, H. (1970) J. Chem. Phys. 53, 9
+Gibson, S. T., Gies, H. P. F., Blake, A. J., Mccoy, D. G., Rogers, P. J. (198 J. Quant. Spectr. Rad. Trans. 30, 385
+Birks, J. W., Shoemaker, B., Leck T. J., Borders, R. A., Hart, lL J. (1977) J. Chem. Phys. 66, 4591
+Clark, K. C. (1952) Phys. Rev. 87, 271 sigma = 1.45E-16
+Hubrich, C., Stuhl, F. (1980) J. Photochem. 12, 93
+Geiger, J., Schroeder, B. (1969) J. Chem. Phys. 50, 7 sigma = 1.51E-16
+Prest, H. F., Tzeng, B. W., Brom, J. M., Ng, C. Y. (1983) Int. J. Mass Spectr. Ion Phys. 50, 315
+Molina, L. T., Molina, M. J. (1980) Ultraviolet Absorption Cross Sections of HO2NO2 Vapor Rport No. FAA-eE-80-07
+Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409 From atomic cross section of F
+Henry, R. J. W., Mcelroy, M. B. (1968) Photoelectrons in Planetary Atmospheres, in The Atmospheres Of Venus And Mars Brandt, J. C., Mcelroy, M. B., (eds.), Gordon Breach Science Publishers Inc., New York, London, Paris
+Watanabe, K. (1958) Adv. Geophys. 5, 153
+Golomb, D., Watanabe, K., Marmo, F. F. (1962) J. Chem. Phys. 36, 958
+Kanda, K., T. Nagata, and T. Ibuki (1999), Chem. Phys.
+Vandishoeck (1987) J. Chem. Phys. 86, 196
+Huffman, R. E., Tanaka, Y., Larrabee, J. C. (1963) J. Chem. Phys. 39, 910 sigma = 3.02E-16
+Phillips, E., Lee, L. C., Judge, D. L. (1977) J. Quant. Spectr. Rad. Trans. 18, 309
+Masuoka, T., Samson, J. A. R. (1980) J. Chem. Phys. 74, 1093
+Selwyn, G., Podolske, J., Johnston, H. S. (1977) Geophys. Res. Lett. 4, 427
+Molina, L. T., Lamb, J. J., Molina, M. J. (1981) Geophys. Res. Lett. 8, 1008
+Radziemski, L. J., Jr., Kaufman, V. (1974)
+Absorption (2003).  doi: 10.1140/epjd/e2003-00223-5.
+Lofthus, A., Krupenie, P. H. (1977) J. Chem. Phys. Ref. Data 6, 130
+Chem. Phys., 344(1), 164-175, doi:10.1016/j.chemphys.2007.12.011.
+Molina, L. A., Molina, M. J. (1977) Geophys. Res. Lett. 4, 83
+Calvert, J. G., Pitts, J. N. (1966) Photochemistry, John Wiley & Sons, Inc., N. Y.
+Sreela N., Ellison, G. B. (2002) Chem. Rev. 102, 231-282.
+Gentieu, E. P., Mentall, J. E. (1970) Science 169, 681
+Nakayama, T., Watanabe, K. (1964) J. Chem. Phys. 40, 588
+Kelly, R. L. (1987) J. Phys. Chem. Ref. Data 16, Suppl. 1.
+Shenstone, A. G. (1970) J. Res. Natl. Bur. Stand. (U.S.) 74A, 801.
+Sugar, J., Musgrove, A. (1990) J. Phys. Chem. Ref. Data 19, 527.
+Itamoto, F. K., Jr., Mcallister, H. C. (1961) Contribution Nr. 29, Hawaii Institute of Geophysics, U. Hawaii sigma = 3.72E-16
+Molina, M. J., Arguello, G. (1979) Geophys. Res. Lett. 6, 953
+Nelson, H. H., Johnston, H. S. (1981) J. Phys. Chem. 85, 3891
+Vanlaethem-Meuree, N., Wisemberg, J., Simon, P. C. (1978) Bull. Acad. Roy. Belgigue, Cl. Sci., 64, 31
+Huber, K.-P., Herzberg, G. (1979) Molecular Spectra and Molecular Structure, Vol. 4, Van Nostrand Reinhold, New
+Metzger, P. H., Cook, G. R. (1964) J. Chem. Phys. 41, 642
+Moore, C. E. (1993) Tables of spectra of hydrogen, nitrogen, and oxygen, J. W. Gallagher (Ed.) CRC Press. Inc., Boca Raton, FL.
+Carnovale, F., Brion, C. E. (1983) Chem. Phys. 74, 253.
+Herman, J. R., Mentall, J. E. (1982) J. Geophys. Res. 87, 8967
+Ackerman, M., Biaume, F., Kockarts, G. (1970) Planet. Space Sci. 18, 1639
+Schuergers, M., Welge, K. H. (1968) Z. Naturforsch. 23a, 1508
+Slanger, T. G., Black, G. (1982) J. Chem. Phys. 77, 2432.
+Ditchburn, R. W. (1955) Proc. Roy. Soc. London 229a, 44
+Glicker, S., Stief, L. J. (1971) J. Chem. Phys. 54, 2852
+Matsunaga, F. M., Watanabe, K. (1967) Science of Light 16, 31
+Hubrich, C., Stuhl, F. (1980) J. Photochem. 12, 93 Data have been divided by 2 to match data at 2400.00 A. See DeMore, W. B., Watson, R. T.,Golden, D. M., Hampson, R. E., Kurylo, M., H NASA-CR-169262.
+Supplemented for predissociation line from Vandishoeck (1987) J. Chem. Phys. 86, 196
+Synthesyzed from atomic cross sections
+Katayama, D. H., Huffman, R. E., O'Bryan, C. L. (1973) J. Chem. Phys. 59, 4309
+Simard, B. (1994) J. Chem. Phys. 101, 4485-4495.
+Magnotta, F., Johnston, H. S. (1980) Geophys. Res. Lett. 7, 769
+Martin, W. C., Zalubas, R., Musgrove, A. (1990) J. Phys. Chem. Ref. Data 19, 821.
+Moore, C. E. (1993) Tables of Spectra of Hydrogen, Carbon, Nitrogen, and Oxygen, J. W. Gallagher, ed., CRC Press, Inc., Boca Raton, FL.
+Kaufman, V., Martin, W. C. (1991a).
+Kaufman, V., Martin, W. C. (1991b)
+Basco, N., Morse, R. D. (1974) Proc. R. Soc. Lond., a 336, 495
+Palenius, H. P. (1969) Ark. Fys. 39, 15.
+Huber, K.-P., Herzberg, G. (1979) Molecular Spectra & Molecular Structure, Vol. 4, Van Nostrand Reinhold, New Y
+Vanlaethem-Meuree, N., Wisemberg, J., Simon, P. C. (1979) Geophys. Res. Lett. 6, 451.
+Walker, T. E. H., Kelly, H. P. (1972) Chem. Phys. Lett. 16, 511
+Lin, C. L., Rohatgi, N. K., Demore, W. B. (1978) Geophys. Res. Lett. 5, 113
+Mount, G. H., Moos, H. W. (1978) Astrophys. J. 224, l35
+Samson, J. A. R., Cairns, R. B. (1964) J. Geophys. Res. 69, 4583
+Lee, L. C., Carlson, R. W., Judge, D. L., Ogawa, M. (1973) J. Quant. Spectr. Rad. Trans. 13, 1023
+Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409 Synthesized from cross sections of S and O
+Gordon, J. R., Ausloos, P. (1967) J. Chem. Phys. 46, 4823
+Hubbell, J. M., Veigele, W. J. (1976) NBS Technical Note 901.
+Pouilly, B., Robbe, J. M. Schamps, J.,Roueff, E. (1983) J. Phys. B: Atom. Mol. Phys. 16, 437
+Okabe, H. (1973) J. Chem. Phys. 62, 2782
+Kramida, A. E., Martin, W. C. (1997) J. Phys. Chem. Ref. Data 26, 1185.
+Goodeve, C. F., Stein, N. O. (1931) Trans. Faraday Soc. 27, 393
+Martin, W. C., Zalubas, R., Musgrove, A. (1985) J. Phys. Chem. Ref. Data 14, 751.
+Moore, C. E. (1970) Ionization Potentials and Ionization Limits Derived from the Analyses of Opti
+Watanabe, K., Jursa, A. S. (1964) J. Chem. Phys. 41, 1650
+Browning, R., Fryar, J. (1973) J. Phys. B, Atom. Mol. Phys. 6, 364
+Okabe, H., Becker, D. A. (1963) J. Chem. Phys. 39, 2549
+Stief, L. J.  Donn, B., Glicker, S., Gentieu, E. P., Mentall, J. E. (1972) Astrophys. J. 171, 21.
+Barnes, E. E., Simpson, W. T. (1963) J. Chem. Phys. 39, 670
+Inn, E. C. Y. (1975) J. Atmos. Sci., 32, 2375
+Baulch, D. L., Cox, R. A., Hampson, Jr. R. F., Kerr, J. A.,Troe, J., Watson,
+Vaghjiani, G., L. (1993) J. Chem. Phys. 99, 5938.
+Liden, K. (1949) Ark. Fys. 1, 229-267.
+Page, R. H., Gudeman, C. S. (1990) J. Opt. Soc. Am. B 7, 1761-1771.
+Lee, L. C., Slanger, T. G., Black, G., Sharpless, R. L. (1977) J. Chem. Phys. 67, 5602
+Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409 from atomic cross sections of O
+Kramida, A. E., Martin, W. C., (2000) Unpublished compilation.
+Cox, R. A., Derwent, R. G. (1976) J. Photochem. 6, 23
+Kronebusch, P. L. Berkowitz, J. (1976) Int. J. Mass Spectr. Ion Phys. 22, 283
+Coon, J. B., Dewames, R. E., Loyd, C. M. (1962) J. Mol. Spectr. 8, 285
+Johansson, L. (1966) Ark. Fys. 31, 201.
+Koch, E. E., Skibowski, M. (1971) Chem. Phys. Lett. 9, 429
+Cook, G. R., Metzger (1964) J. Chem. Phys. 41, 321 sigma = 1.94E-16
+Dixon, R. N., Kirby, G. H. (1968) Transactions Faraday Soc. 64, 2002
+Demore, W. B. (1982) Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling: Evaluation Number 5, NASA-CR-169262. Data taken from:
+McNesby, J. R., Okabe, H. (1964) Adv. Photochem. 3, 157
+Watanabe, K. (1957) J. Chem. Phys. 26, 542
+Yoshino, K., Freeman, D. E., Esmond, J. R., Parkinson, W. H. (1982) Plan. Space Sci.   ,
+Leach, S. et al. (2008) A Revisionist Study Chemical Physics, 344, 147-163. doi:10.1016/j.chemphys.2007.12.012.
+Krupenie, P. H. (1966) The Band Spectrum of Carbon Monoxide, NSRDS-NBS 5
+Mentall, J. E., Gentieu, E. P., Kraus, M., Neumann, D. (1971) J. Chem. Phys. 55, 5471
+Moore, C. E. (1975) Natl. Stand. Ref. Data Ser., Natl. Bur. Stand. 3, Sect. 5.
+Back, R. A., Griffiths, D. W. L. (1967) J. Chem. Phys. 46, 4839
+Sohl, J. E., Zhu, Y., Knight, R. D. (1990) J. Opt. Soc. Am. B 7, 9-14.
+Henry, R. J. W., McElroy, M. B. (1968) Photoelectrons in Planetary Atmospheres, in The Atmospheres of Venus and Mars Brandt, J. C., McElroy, M. B. (eds.), Gordon Breach Science Publishers, Inc., New York, London, Paris
+Samson, J. A. R., Cairns, R. B. (1964) J. Geophys. Res. 69, 4583 sigma = 3.59E-16
+Jones, I. T. N., Bayes, K. D. (1973) J. Chem. Phys. 59, 4863
+Hudson, R. D. (1971) Rev. Geophys. Space Phys. 9, 305
+Lombos, B. A., Sauvageau, P., Sandorfy, C. (1967) J. Mol. Spectr. 24, 253
+Chou, C. C., Crescentini, G., Vera-Ruiz, H., Smith, W. S., Rowland, F. S. (19 Stratospheric Photochemistry of CF2O, CClFO and CCl2O 173rd Am. Chem. Soc. Nat. Meeting, New Orleans
+McNesby, J. R., Tanaka, I., Okabe, J. (1962)
+Brandi, F., Velchev, I., Horgervorst, W., Ubachs, W. (2001) Phys. Rev. A 64, 032505.  See also: / http://physics.nist.gov/PhysRefData/Handbook/atomic_number.htm.
+Sugar, J., Corliss, C., J. (1985) Phys. Chem. Ref. Data 14, Suppl. 2.
+Okabe, H. (1983) J. Chem. Phys. 78, 1312
+Nakayama, T., Kitamura, M. Y., Watanabe, K. (1959) J. Chem. Phys. 30, 1180
+Dibeler, V. H., Liston, S. K. (1968), J. Chem. Phys. 48, 4765, doi:  http://dx.doi.org/10.1063/1.1668059.
+Dibler, V. H., Walker, J. A., Rosenstock, H. M. (1966) J. Res. NBS-A. Phys. Chem. 70, 459
+Rustgi, O. P. (1964) J. Opt. Soc. Am. 54, 464
+Kelly, R. L., (1987) J. Phys. Chem. Ref. Data 16, Suppl. 1.
+Stockwell, W. R., Calvert, J. G. (1978) J. Photochem. 8, 193
+Watanabe, K., Sood, S. P. (1965) Science of Light 14, 36
+Moule, D. C., Foo, P. D. (1971) J. Chem. Phys. 55, 1262
+Watanabe, K., Nakayama, T., Mottl, J. (1962) J. Quant. Spectr. Rad. Trans. 2, 369
+Martin, W. C., Zalubas, R. (1981) J. Phys. Chem. Ref. Data 10, 153.
+Schwell, M., H.-W. Jochims, H. Baumgärtel, and S. Leach (2008),
+Ackerman, M. (1971) Mesospheric Models and Related Experiments, 149-159, D. Reidel Pub.
+Lenzi, M., Okabe, H. (1967)
+Verner, D. A., Yakovlev, D. G., Band, I. M., Trzhaskovskaya, M. B. (1993) Atomic Data Nuclear Data Tables 55, 233.
+Huffman, R. E. (1969) Can. J. Chem. 47, 1823
+Sugar, J., Musgrove, A. (1995) J. Phys. Chem. Ref. Data 24, 1803.
+Watanabe, K., Zelikoff, M. (1953) J. Opt. Soc. Am. 43, 753
+Kaufman, V., Martin, W. C. (1991) J. Phys. Chem. Ref. Data 20, 83-152.
+Iglesias, L., Cabeza, M. I., de Luis, B. (1988) Pub. Inst. Opt. Madrid, No. 47.
+Kronebusch, P. L., Berkowitz, J. (1976) Int. J. Mass Spectr. Ion Phys. 22, 283
+Moore, C. E. (1970) Ionization Potentials and Ionization Limits Derived from the Analyses of Optical Spectra, NSRDS-NBS 34.
+Okabe, H., Laufer, A. H., Ball, J. J. (1971) J. Chem. Phys. 55, 373
+Watanabe, K., Marmo, F. F. (1956) J. Chem. Phys. 25, 965 sigma = 1.12E-17
+Graham, R. A., Johnston, H. S. (1978) J. Chem. Phys. 82, 254
+Black, G., Sharpless, R. L., Slanger, T. G., Lorents, D. C.(1975) J. Chem. Phys 62,4274
+Zelikoff, M., Watanabe, K., Inn, E. C. Y. (1953) J. Chem. Phys. 21, 1643
+Ballash, N. M., Armstrong, D. A. (1973)
+Myer, J. A., Samson J. A. R. (1970) J. Chem. Phys., 52, 266
+Slanger, T. (1981) Planetary Atmospheres Principal Invest. Conf. NASA/GSFC, p. xiv-6
+Slanger, T. G., Black, G. (1982) J. Chem. Phys. 77, 2432-2437.
+Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409 From atomic cross sections of S and O
+Sugar, J., Corliss, C. J. (1985) J. Phys. Chem. Ref. Data 14, Suppl. 2.
+Verner, D. A., Yakovlev, D. G. (1995) Astron. Astrophys. Suppl. 109, 125.
+Verner, D. A., Ferland, G. J., Korista, K. T., Yakovlev, D. G. (1996) Astrophys. J. 465, 487.
+Lofthus, A., Krupenie, P. H. (1977) J. Phys. Chem. Ref. Data 6, 113
+Guyon, P. M., Chupka, W. A., Berkowitz, J. (1976) J. Chem. Phys. 64, 1419
+Kronebusch, P. L., Berkowitz, J. (1976) Int. J. Mass Spectry. Ion Phys. 22, 283
+Griggs, M. (1968) J. Chem. Phys. 49, 857
+Black, G., Sharpless, R. L., Slanger, T. G., Lorents, D. C.(1975) J. Chem. Phys 62, 4274
+Huffman, R. E., Tanaka, Y., Larrabee, J. C. (1963) J. Chem. Phys. 39, 910
+Okabe, H. (1972) J. Chem. Phys. 56, 4381
+Guertler, P., Saile, V., Koch, E. E. (1977) Chem. Phys. Lett. 48, 245 sigma = 3.57E-16
+Okabe, H. (1980) J. Chem. Phys. 72, 6642
+Dibeler, V. H., and S. K. Liston (1968), J. Chem. Phys. 48, 4765, doi:http://dx.doi.org/10.1063/1.1668059.
+Thompson, B. A., Harteck, P., Reeves, Jr. R. R., (1963) J. Geophys. Res. 68, 6431
+Eriksson, K. B. S. (1983) Phys. Scr. 28, 593.
+Baugh, J. F., Burkhardt, C. E., Leventhal, J. J., Bergeman, T., (1998) Phys. Rev. A 58, 1585.
+Watanabe, K., Matsunaga, F. M., Sakai, H. (1967) Appl. Opt. 6, 391
+Padial, N. T., Collins, L. A., Schneider, B. I. (1985) Astrophys. J.
+Martin, W. C., Kaufman, V., Musgrove, A. (1993) J. Phys. Chem. Ref. Data 22, 1179.
+Kronebusch, P. L., Berkowitz, J. (1976) Int. J. Mass Spectr. Ion phys. 22, 283
+Bass, A. M., Ledford, A. E., Laufer, A. H. (1976) J. Res. NBS A Phys. Chem. 80A, 143
+Herzberg, G., Johns, J. W. C. (1969) Astrophys. J. 158, 399
+Okabe, H. (1978) Photochemistry of small molecules, John Wiley & Sons, New York
+Lukirskii, A. P., Brytov, I. A., Zimkina, T. M. (1964) Opt. Spektr. (Engl. Trans.) 17, 234
+Matsunaga, F. M., Watanabe, K. (1967) J. Chem. Phys. 46, 4457
+Illies, A. J., Takacs, G. A. (1976) J. Photochem. 6, 43
+Hubrich, C., Zetzsch, C., Stuhl, F. (1977) Ber. Bunsen-Ges. 81, 437
+Clark, J. H., Moore, C. B., Nogar, N. S. (1978) J. Chem. Phys. 68, 1264
+Kaufman, V., Martin, W. C. (1991) J. Phys. Chem. Ref. Data 20, 775-858.
+McNesby, J. R., Tanaka, I., Okabe, H. (1962) J. Chem. Phys. 36, 605
+Cook, G. R., Metzger (1964) J. Chem. Phys. 41, 321
+Kley, D., Welge, K. H. (1965) Z. Naturforsch. 20a, 124
+Shardanand, Rao, A. D. P. (1976) J. Quant. Spectr. Rad. Trans. 17, 433
+Okabe, H. (1978) Photochemistry of Small Molecules, John Wiley & Sons, New York, p. 2.
+Watanabe, K. (1954) J. Chem. Phys. 22, 1564
+Ackerman, M. (1971) Ultraviolet Solar Radiation Related to Mesospheric Processes, in Mesospheric Models and Related Experiments, G. Fiocco (ed.), Proc. 4th ESRIN-ESLAB Symp., Frascati, Italy (Reidel Dordrecht-Holland)
+Mohr, P., Kotochigova, S., (2000) unpublished calculations.
+Martin, W. C., Zalubas, R. (1983) J. Phys. Chem. Ref. Data 12, 323-379.
+Salahub, D. R., Sandorfy, C. (1971) Chem. Phys. Lett. 8, 71
+Marmo, F. F. (1953) J. Opt. Soc. Am. 43, 1186
+Persson, W. (1971) Phys. Scr. 3, 133.
+Tanaka, Y., Inn, E. C. Y., Watanabe, K. (1953) J. Chem. Phys. 21, 1651
+Robbins, D. E. (1976) Geophys. Res. Lett. 3, 213 and 3, 757
+Baulch, D. L., Cox, R. A., Crutzen, P. J., Hampson, Jr., R. F.,Kerr, J. A., T
+Sugar, J, Corliss, C. (1985) J. Phys. Chem. Ref. Data 14, Suppl. 2.
+Beutler, H., Juenger, H. O. (1936) Z. Physik 100, 80
+Fridh, C., Asbrink, J. (1975) J. Electron Spectr. 7, 119
+Martin, W. C., Zalubas, R., Musgrove, A. (1990)
+Samson, J. A. R., Cairns, R. B. (1964, 1965) J. Geophys. Res. 69, 4583 J. Opt. Soc. Am. 55, 1035
+Lawrence, G. M. (1972) J. Chem. Phys. 56, 3435 pi metastable state)
+Samson, J. A. R., Cairns, R. B. (1965) J. Opt. Soc. Am. 55, 1035
+Schurath, U., Tiedemann, P., Schindler, R. N. (1969) J. Phys. Chem. 73, 456.
+Barfield, W. D., Koontz, G. D., Huebner W. F. (1972) J. Quant. Spectr. Rad. Trans. 12, 1409
+Freeman, D. E., Yoshino, K., Esmond, J., Parkinson, W. H. (1984) Planet Space Sci. 32, 1125

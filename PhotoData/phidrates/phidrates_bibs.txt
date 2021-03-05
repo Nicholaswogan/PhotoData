@@ -1,0 +1,2130 @@
+@article{moortgat1975relative,
+ abstract = {Mixtures of O3 with excess N2O were photolysed in the wavelength region 290-335 nm using monochromatic light with a band width of 4 nm. The resulting primary product atomic singlet oxygen, O (1D), in reacting with N2O produces in part NO which subsequently reacts with O3 giving rise to a weak infrared chemiluminescence. The emission was monitored with a cooled photomultiplier. The emission intensity is directly proportional to the rate of O (1D) production and it has been utilised to derive the relative O (1D) quantum yield as a function},
+ author = {Moortgat, GK and Warneck, P},
+ journal = {Zeitschrift f{\"u}r Naturforschung A},
+ number = {6-7},
+ pages = {835--844},
+ pub_year = {1975},
+ publisher = {Verlag der Zeitschrift f{\"u}r Naturforschung},
+ title = {Relative O (1D) quantum yields in the near UV photolysis of ozone at 298 K},
+ venue = {Zeitschrift für Naturforschung A},
+ volume = {30}
+}
+
+
+@article{goodeve1939absorption,
+ abstract = {Although the photodecomposition of nitrosyl chloride has often been quoted as a typical photochemical reaction, there is considerable disagree ment in the literature with regard to its exact mechanism. Early workers (Kiss 1923; Bowen and Sharpe 1925) found a quantum efficiency, γ, of 0.5 for the visual region, while Kistiakowsky (1930) found a value of 2. Quanta of wave-lengths shorter than 7600 A have sufficient energy to dissociate NOCl. Kistiakowsky, however, found fine structure in the spectrum as far down as 4100 A and},
+ author = {Goodeve, Charles Frederick and Katz, S},
+ journal = {Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences},
+ number = {950},
+ pages = {432--444},
+ pub_year = {1939},
+ publisher = {The Royal Society London},
+ title = {The absorption spectrum of nitrosyl chloride},
+ venue = {… of the Royal Society of London …},
+ volume = {172}
+}
+
+
+@article{okabe1975photodissociation,
+ abstract = {The photodissociation of C2H2 and BrC2H in the vacuum ultraviolet produces nearly identical quasicontinuous emissions in the region 4000 to above 5500 Å. It is concluded that the continua are most likely associated with the electronically excited C2H (C2H*) in both cases. Based on this conclusion the following spectroscopic and thermochemical data are derived from the thresholds of incident wavelength to produce the continua (1305±3 Å and 1540±3 Å, respectively, for C2H2 and BrC2H): The electronic energy of C2H, E0 (C2H)},
+ author = {Okabe, H},
+ journal = {The Journal of Chemical Physics},
+ number = {7},
+ pages = {2782--2787},
+ pub_year = {1975},
+ publisher = {American Institute of Physics},
+ title = {Photodissociation of acetylene and bromoacetylene in the vacuum ultraviolet: Production of electronically excited C2H and C2},
+ venue = {The Journal of Chemical Physics},
+ volume = {62}
+}
+
+
+@article{lykke1991threshold,
+ abstract = {The electron affinities of atomic hydrogen and deuterium have been determined by tunable-laser threshold-photodetachment spectroscopy: the electron affinities of H (F= 0) and D (F= 1/2) are 6082.99±0.15 and 6086.2±0.6 cm− 1, respectively. The value for H is a 20-fold improvement over previous experimental determinations.},
+ author = {Lykke, KR and Murray, KK and Lineberger, WC},
+ journal = {Physical Review A},
+ number = {11},
+ pages = {6104},
+ pub_year = {1991},
+ publisher = {APS},
+ title = {Threshold photodetachment of H-},
+ venue = {Physical Review A},
+ volume = {43}
+}
+
+
+@article{bates1951density,
+ abstract = {THE ASTROPHYSICAL JOURNAL AN INTERNATIONAL REVIEW OF SPECTROSCOPY AND  ASTRONOMICAL PHYSICS VOLUME 113 MAY 1951 NUMBER 3 THE DENSITY OF MOLECULES  IN INTERSTELLAR SPACE DAVID R. BATES* ANT) LYMAN SPITZER, JR. University  College, London, and Princeton University Observatory Received January 22, 1951 ABSTRACT  Analysis of Adams' visual estimates indicates that the interstellar lines CH~ X 4232 and CH X  4300 originate in two types of regions-in the normal obscuring clouds responsible for selective},
+ author = {Bates, David R and Spitzer Jr, Lyman},
+ journal = {The Astrophysical Journal},
+ pages = {441},
+ pub_year = {1951},
+ title = {The Density of Molecules in Interstellar Space.},
+ venue = {The Astrophysical Journal},
+ volume = {113}
+}
+
+
+@article{cook1965photoionization,
+ abstract = {Absolute photoionization and absorption coefficients of CO have been measured in the 600 to 1 000 Å region using a 1-meter Seya-Namioka scanning vacuum ultraviolet monochromator. The Hopfield helium continuum background source was used with photoelectric detection of the dispersed light. Numerous peaks were observed at wavelengths that were found to agree well with those of a higher-resolution photographic absorption spectrum. Two well-defined ionization continua followed the first and second},
+ author = {Cook, GR and Metzger, PH and Ogawa, M},
+ journal = {Canadian Journal of Physics},
+ number = {10},
+ pages = {1706--1722},
+ pub_year = {1965},
+ publisher = {NRC Research Press Ottawa, Canada},
+ title = {Photoionization and absorption coefficients of CO in the 600 to 1 000 {\AA} region},
+ venue = {Canadian Journal of …},
+ volume = {43}
+}
+
+
+@article{barsuhn1978photoionization,
+ abstract = {The Stieltjes‐imaging method is applied to the spectrum of CH which is computed by SCF–MO–CI calculations on single excitation series. The calculations use basis sets of up to 50 Slater atomic orbitals. The continuum cross sections obtained are lower than the previous results of Walker and Kelly who used a perturbation theoretical approach. Our computations indicate strong Rydberg series converging to the ground state and the excited states 3Π and 1Π of CH+. If these Rydberg states were predissociated then the dissociation rate of},
+ author = {Barsuhn, J and Nesbet, RK},
+ journal = {The Journal of Chemical Physics},
+ number = {6},
+ pages = {2783--2793},
+ pub_year = {1978},
+ publisher = {American Institute of Physics},
+ title = {The photoionization and photodissociation of CH in the vicinity of the ionization threshold},
+ venue = {The Journal of Chemical Physics},
+ volume = {68}
+}
+
+
+@article{cairns1965absorption,
+ abstract = {Photoionization and total absorption cross sections have been measured for CO2, CO, Ar, and He at the wavelengths in the region 1040 A to 300 A which correspond to intense solar emission lines. The wavelength resolution, determined from the measured width of each of the spectral lines generated within the light sources, was in the range 0.04 to 0.1 A.},
+ author = {Cairns, RB and Samson, James AR},
+ journal = {Journal of Geophysical Research},
+ number = {1},
+ pages = {99--104},
+ pub_year = {1965},
+ publisher = {Wiley Online Library},
+ title = {Absorption and photoionization cross sections of CO2, CO, Ar, and He at intense solar emission lines},
+ venue = {Journal of Geophysical Research},
+ volume = {70}
+}
+
+
+@article{carnovale1982absolute,
+ abstract = {Dipole oscillator strengths (cross sections) for the photoionization and fragmentation of COS and CS 2 have been determined from electron-ion coincidence measurements over the photon energy range up to 50 and 40 cV, respectively. These results are combined with partial photoionization oscillator strengths obtained previously by dipole (e, 2e) spectroscopy to investigate the dipole induced fragmentation of the ion states of these molecules.},
+ author = {Carnovale, F and Hitchcock, AP and Cook, JPD and Brion, CE},
+ journal = {Chemical Physics},
+ number = {3},
+ pages = {249--259},
+ pub_year = {1982},
+ publisher = {Elsevier},
+ title = {Absolute dipole oscillator strengths for molecular and dissociative photoionization of COS (10--50 eV) and CS2 (10--40 eV)},
+ venue = {Chemical Physics},
+ volume = {66}
+}
+
+
+@article{sugar1985j,
+ author = {Sugar, J and Corliss, C},
+ journal = {Suppl.},
+ pages = {498},
+ pub_year = {1985},
+ title = {J. Phys. Chem. Ref. Data 14},
+ venue = {NA},
+ volume = {2}
+}
+
+
+@article{yao1982temperature,
+ abstract = {Dinitrogen pentoxide, N2Os, may be a significant res-ervoir for stratospheric nitrogen oxides, especially atnight and in the polar night. The room-temperature ultraviolet cross sections for N205 were reported between 285 and 380 nm by Jones and Wulf, 1 between 210 and 290 nm by Johnston and Graham, 2 and between 205 and 310 nm by},
+ author = {Yao, Francis and Wilson, Ivan and Johnston, Harold},
+ journal = {The Journal of Physical Chemistry},
+ number = {18},
+ pages = {3611--3615},
+ pub_year = {1982},
+ publisher = {ACS Publications},
+ title = {Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide},
+ venue = {The Journal of Physical Chemistry},
+ volume = {86}
+}
+
+
+@article{mcelroy1971atomic,
+ abstract = {Photochemical processes involving atomic carbon in the upper atmospheres of Mars and Venus are critically examined. It is shown that carbon is produced mainly by electron‐and photon‐induced dissociation of CO and CO2, with CO relatively more important for Mars. The important removal mechanism for C is a reaction with O2, although a spin‐forbidden reaction with CO2 may also be significant. Detailed calculations are presented for the dayglow emissions from C at 1657 and 1561 A and results are compared with the Mariner 6},
+ author = {McElroy, Michael B and McConnell, John C},
+ journal = {Journal of Geophysical Research},
+ number = {28},
+ pages = {6674--6690},
+ pub_year = {1971},
+ publisher = {Wiley Online Library},
+ title = {Atomic carbon in the atmospheres of Mars and Venus},
+ venue = {Journal of Geophysical Research},
+ volume = {76}
+}
+
+
+@article{pitts1979photochemical,
+ abstract = {The discovery of direct mutagenic activity, as determined by the Ames Salmonella typhimurium reversion assay, in the organic fractions of ambient aerosols collected throughout Southern California, led us to investigate the reactions of benzo (a) pyrene (BaP)},
+ author = {Pitts Jr, JN},
+ journal = {Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences},
+ number = {1376},
+ pages = {551--576},
+ pub_year = {1979},
+ publisher = {The Royal Society London},
+ title = {Photochemical and biological implications of the atmospheric reactions of amines and benzo (a) pyrene},
+ venue = {… Transactions of the Royal Society of London …},
+ volume = {290}
+}
+
+
+@article{phillips1981absolute,
+ abstract = {Conclusions Thermal electron attachment rateconstants have been determined for SF6, CC14, CHC13, and CH2C12 by use of the pulse-sampling technique with both 3H and 63Ni ß sources to generate the electron swarms. It has been shown that data in the linear region (low pulse intervals) can be used as well as data at steady-state conditions. The rate con-stants for 3H were generally greater than with 63Ni and were in better agreement with the literature values. The results for 3H from data in the linear region (low pulse interval) were in},
+ author = {Phillips, Leon F},
+ journal = {The Journal of Physical Chemistry},
+ number = {26},
+ pages = {3994--4000},
+ pub_year = {1981},
+ publisher = {ACS Publications},
+ title = {Absolute absorption cross sections for SO between 190 and 235 nm},
+ venue = {The Journal of Physical Chemistry},
+ volume = {85}
+}
+
+
+@article{velchev1999precision,
+ abstract = {The results of a precision measurement of the 3p 6-3p 5 4s [½] 1 (1s 2 in Paschen notation) transition in argon by resonance-enhanced 1 VUV+ 1 UV photo-ionization spectroscopy at 105 nm are presented. Tunable narrow-band VUV radiation is generated by frequency up-conversion of the powerful output of a pulsed dye amplifier system. A transition frequency of 95 399.833 (3) cm-1 in 40 Ar is measured, in agreement with (but an order of magnitude more accurate than) the existing value for this transition. Transition isotope shifts delta nu 40},
+ author = {Velchev, I and Hogervorst, W and Ubachs, W},
+ journal = {Journal of Physics B: Atomic, Molecular and Optical Physics},
+ number = {17},
+ pages = {L511},
+ pub_year = {1999},
+ publisher = {IOP Publishing},
+ title = {Precision VUV spectroscopy of Ar I at 105 nm},
+ venue = {Journal of Physics B …},
+ volume = {32}
+}
+
+
+@article{brolley1973photoabsorption,
+ abstract = {A Phillips ionization gage helium discharge has been used to provide a stable source of vacuum ultraviolet photons. Filtration of the ultraviolet beam with tandem tin films reduced the spectrum to substantially the 584‐A line of helium. Absorption by target gases of the 584‐A radiation was observed in a windowless cell with a sodium salicylate detector. Precise absorber gas pressure measurement was achieved with an MKS Baratron. Photoabsorption cross sections, which were determined in this experiment with an accuracy of about 2%, are},
+ author = {Brolley, JE and Porter, LE and Sherman, RH and Theobald, JK and Fong, JC},
+ journal = {Journal of Geophysical Research},
+ number = {10},
+ pages = {1627--1632},
+ pub_year = {1973},
+ publisher = {Wiley Online Library},
+ title = {Photoabsorption cross sections of H2, D2, N2, O2, Ar, Kr, and Xe at the 584-A line of neutral helium},
+ venue = {Journal of …},
+ volume = {78}
+}
+
+
+@article{nakata1965absorption,
+ author = {Nakata, RS and Watanabe, K and Matsunaga, FM},
+ journal = {Sci. Light Tokyo},
+ pages = {54V71},
+ pub_year = {1965},
+ title = {Absorption and photoionization coefficients of CO2 in the region 580--1670 A},
+ venue = {NA},
+ volume = {14}
+}
+
+
+@article{schoen1962absorption,
+ abstract = {Absorption and ionization cross sections of the hydrocarbon vapors ethane, propane, n‐butane, n‐pentane, cyclopropane, ethylene, propylene, cis‐butene‐2, and 1, 3‐butadiene were measured in the spectral range 9 to 25 eV. With the exceptions of ethylene and cyclopropane, the absorption cross sections rose smoothly to peaks near 16 eV and decreased smoothly toward higher energy. The maximum absorption cross section of an alkane could be estimated by multiplying the number of bonding electrons by 6 Mb},
+ author = {Schoen, Richard I},
+ journal = {The journal of chemical physics},
+ number = {9},
+ pages = {2032--2041},
+ pub_year = {1962},
+ publisher = {American Institute of Physics},
+ title = {Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation},
+ venue = {The journal of chemical physics},
+ volume = {37}
+}
+
+
+@article{mount1978photoabsorption,
+ abstract = {Photoabsorption cross sections of methane and ethane have been determined in the wavelength range from 1380 to 1600 A at room (295 K) and dry-ice (200 K) temperatures. It is found that the room-temperature ethane data are in excellent agreement with the older},
+ author = {Mount, GEORGE H and Moos, HW},
+ journal = {The astrophysical journal},
+ pages = {L35--L38},
+ pub_year = {1978},
+ title = {Photoabsorption cross sections of methane and ethane, 1380-1600 A, at T equals 295 K and T equals 200 K},
+ venue = {The astrophysical journal},
+ volume = {224}
+}
+
+
+@article{brion1979dipole,
+ abstract = {The photoabsorption, photoionization and fragmentation of O 2 have been studied using electron impact coincidence methods to obtain branching ratios and dipole oscillator strengths (cross-sections). The photoabsorption measurements cover the energy range 5},
+ author = {Brion, CE and Tan, KH and Van der Wiel, MJ and Van der Leeuw, Ph E},
+ journal = {Journal of Electron Spectroscopy and Related Phenomena},
+ number = {2},
+ pages = {101--119},
+ pub_year = {1979},
+ publisher = {Elsevier},
+ title = {Dipole oscillator strengths for the photoabsorption, photoionization and fragmentation of molecular oxygen},
+ venue = {… of Electron Spectroscopy …},
+ volume = {17}
+}
+
+
+No Google Scholar results.
+@article{lee1982fluorescence,
+ abstract = {The cross sections for the production of fluorescence (3000-8000 A) from excited photofragments of OCS were determined in order to gain a better understanding of the role of carbonyl sulfide in interstellar photochemistry. Synchrotron radiation was used as the light source for the measurements in the 1060-1240 A region, as it is suitable for measuring the absorption cross section in the structured region. It was found that the quantum yields for the production of various CO triplet states are less than 1.5% at the observed excitation photon},
+ author = {Lee, LC and Chiang, CC},
+ pub_year = {1982},
+ title = {Fluorescence yields from photodissociation of OCS at 1060-1240 A},
+ venue = {NA}
+}
+
+
+@article{martin1985energy,
+ abstract = {Energy level data are given for the atom and all positive ions of phosphorus (Z= 15). These data have been critically compiled, mainly from published and unpublished material on measurements and analyses of the optical spectra. We have derived or recalculated the levels for a number of the ions. In addition to the level values in cm− 1 and the parity, the J value and the configuration and term assignments are listed if known. Leading percentages from the calculated eigenvectors are tabulated or quoted wherever available. Ionization},
+ author = {Martin, William Clyde and Zalubas, Romuald and Musgrove, Arlene},
+ journal = {Journal of physical and chemical reference data},
+ number = {3},
+ pages = {751--802},
+ pub_year = {1985},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Energy Levels of Phosphorus, P i through P xv},
+ venue = {Journal of physical and …},
+ volume = {14}
+}
+
+
+No Google Scholar results.
+@article{west1974cn,
+ abstract = {Molecular electronic [CN*(A2Π3/2, v′= 0)→ CN (X2Σ+, v ″= 0, 1, 2)] and vibrational [CN†(X2Σ+, v′)→ CN (X2Σ+, v′− 1), v′= 5, 4, 3, 2] cyanide radical laser emissions have been observed following photodissociative and predissociative fragmentation of cyanide parents [HCN, ClCN, BrCN ICN,(CN) 2, CH3NC, CF3CN, C2F5CN] at λ≥ 1550 Å. The observed transitions and their relative gain coefficients and quenching behaviors are used in connection with spectroscopy and fluorescence experiments to formulate a state‐to‐state},
+ author = {West, Gary A and Berry, Michael J},
+ journal = {The Journal of Chemical Physics},
+ number = {11},
+ pages = {4700--4716},
+ pub_year = {1974},
+ publisher = {American Institute of Physics},
+ title = {CN photodissociation and predissociation chemical lasers: Molecular electronic and vibrational laser emissions},
+ venue = {The Journal of Chemical Physics},
+ volume = {61}
+}
+
+
+@article{herzberg1961dissociation,
+ abstract = {The far ultraviolet absorption edges of H 2, HD, and D 2 have been studied under high resolution and the different limits corresponding to absorption from different lower state rotational levels have been observed. The sharpness of the limits for low, as compared to those for high J values, shows that the upper electronic state (which in all probability is the C 1 Π u state) has no potential maximum which might have falsified the values of the dissociation limit. From the precisely measured edges new values for the dissociation},
+ author = {Herzberg, G and Monfils, A},
+ journal = {Journal of Molecular Spectroscopy},
+ number = {1-6},
+ pages = {482--498},
+ pub_year = {1961},
+ publisher = {Elsevier},
+ title = {The dissociation energies of the H2, HD, and D2 molecules},
+ venue = {Journal of Molecular Spectroscopy},
+ volume = {5}
+}
+
+
+@article{mcnesby1962vacuum,
+ abstract = {Water and ammonia have each been photolyzed in the absence and presence of C2D4 which served to scavenge H atoms. Wavelengths used were: for ammonia, 1849 and 1236 A; for water, 1236 A. Under conditions where H atoms are efficiently scavenged by C2D4, the production of H2 signifies a primary photochemical process giving molecular H2 directly. It is found that at 1849 A, ammonia decomposes almost entirely to H+ NH2. At 1236 A, two primary processes are observed.(a) NH3→ H2+ NH,(b) NH3→ H+ NH2. Process (a) is about},
+ author = {McNesby, JR and Tanaka, Ikuzo and Okabe, H},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {605--607},
+ pub_year = {1962},
+ publisher = {American Institute of Physics},
+ title = {Vacuum ultraviolet photochemistry. III. Primary processes in the vacuum ultraviolet photolysis of water and ammonia},
+ venue = {The Journal of Chemical Physics},
+ volume = {36}
+}
+
+
+No Google Scholar results.
+@article{halls2001ab,
+ abstract = {The interaction potential of the lowest triplet excited state, a 3 Σ+ u, for Li 2 has been calculated using the ab initio method, QCISD (T) and the correlation-consistent valence polarised quintuple zeta basis set, cc-pV5Z. Equilibrium constants and vibrational levels for},
+ author = {Halls, MD and Schlegel, HB and DeWitt, MJ and Drake, GWF},
+ journal = {Chemical physics letters},
+ number = {5-6},
+ pages = {427--432},
+ pub_year = {2001},
+ publisher = {Elsevier},
+ title = {Ab initio calculation of the a3$\Sigma$+ u interaction potential and vibrational levels of 7Li2},
+ venue = {Chemical physics letters},
+ volume = {339}
+}
+
+
+@article{radziemski1969wavelengths,
+ abstract = {New wavelength measurements in the region from 950 to 12 000 Å were combined with the infrared data of Humphreys and Paul [J. Opt. Soc. Am. 49, 1180 (1959)] to extend the analysis of Cl i. Electrodeless discharge lamps containing SiCl4, GeCl_4, PbCl_2, or chlorine gas were used to obtain wavelengths for 920 lines, of which 330 are interferometric values. The number of classified and observed lines has increased from about 550 and 780, to 1097 and 1173, respectively. Forty-three new even levels and 39 new odd levels were},
+ author = {Radziemski, Leon J and Kaufman, Victor},
+ journal = {JOSA},
+ number = {4},
+ pages = {424--443},
+ pub_year = {1969},
+ publisher = {Optical Society of America},
+ title = {Wavelengths, energy levels, and analysis of neutral atomic chlorine (Cl I)},
+ venue = {JOSA},
+ volume = {59}
+}
+
+
+@article{cook1964photoionization,
+ abstract = {Absolute photoionization and absorption cross sections of O2 and N2 have been measured in the 600‐to 1000‐Å region using a 1‐m Seya—Namioka scanning vacuum ultraviolet monochromator with a resolution of 0.5 Å in the first order and the Hopfield continuum background light source. A path length of 40.6 cm was used with simultaneous detection of ion current and photon flux. The absolute photon flux was determined by calibrating the ion chamber with the rare gases Ar, Kr, and Xe. In O2, the spectrum at longer wavelengths},
+ author = {Cook, GR and Metzger, PH},
+ journal = {The Journal of Chemical Physics},
+ number = {2},
+ pages = {321--336},
+ pub_year = {1964},
+ publisher = {American Institute of Physics},
+ title = {Photoionization and Absorption Cross Sections of O2 and N2 in the 600-to 1000-{\AA} Region},
+ venue = {The Journal of Chemical Physics},
+ volume = {41}
+}
+
+
+@article{hayden1982methylene,
+ abstract = {The singlet–triplet splitting in methylene has been determined from the measurements of fragment velocities from ketene photodissociation at 351 and 308 nm in a molecular beam. The splitting is found to be 8.5±0.8 kcal/mol. This agrees with many experimental results, but not with the value of 19.5 kcal/mol derived from recent photodetachment experiments on CH− 2.},
+ author = {Hayden, Carl C and Neumark, Daniel M and Shobatake, Kosuke and Sparks, Randal K and Lee, Yuan T},
+ journal = {The Journal of Chemical Physics},
+ number = {7},
+ pages = {3607--3613},
+ pub_year = {1982},
+ publisher = {American Institute of Physics},
+ title = {Methylene singlet--triplet energy splitting by molecular beam photodissociation of ketene},
+ venue = {The Journal of …},
+ volume = {76}
+}
+
+
+@article{cook1964photoionization,
+ abstract = {The photoionization and absorption cross sections of H_2 and D_2 have been measured in the 1000 to 580 Å region with a resolution of 0.5 Å. Simultaneous measurements of ion current and absolute photon flux were made in a chamber 40.6 cm long with a parallel-plate ion collector and a platinum photocathode or a sodium-salicylate-coated photomultiplier tube. The absolute yield of the photocathode was measured by calibrating the chamber with the rare-gas atoms A, Kr, and Xe. Weak band absorption with k≤ 20 cm^− 1 was observed},
+ author = {Cook, GR and Metzger, PH},
+ journal = {JOSA},
+ number = {8},
+ pages = {968--972},
+ pub_year = {1964},
+ publisher = {Optical Society of America},
+ title = {Photoionization and absorption cross sections of H 2 and D 2 in the vacuum ultraviolet region},
+ venue = {JOSA},
+ volume = {54}
+}
+
+
+@article{okabe1981photochemistry,
+ abstract = {The photolysis of acetylene at 1470 Å has been studied over the pressure region from 13 to 1330 N m− 2 (0.1 to 10 Torr). The quantum yield of diacetylene formation has been measured as a function of C2H2 pressure and the partial pressures of He and H2. The quantum yields of acetylene disappearance and of ethylene and hydrogen formation were also briefly studied. From these results it was concluded that the major primary photochemical process is direct dissociation C2H2 hν→ C2H+ H with a quantum yield of 0.3},
+ author = {Okabe, Hideo},
+ journal = {The Journal of Chemical Physics},
+ number = {6},
+ pages = {2772--2778},
+ pub_year = {1981},
+ publisher = {American Institute of Physics},
+ title = {Photochemistry of acetylene at 1470 {\AA}},
+ venue = {The Journal of Chemical Physics},
+ volume = {75}
+}
+
+
+@article{kaufman1972accurate,
+ abstract = {The Ne i resonance line λ743 has been accurately measured in the fifth order of the NBS 10.7-m vacuum spectrograph against Ar ii Ritz standards in the same order; the measured wavelength is 743.7195 _5±0.0002 Å. This gives for the lowest excited level, 2p^ 5 (P2_112°) 3s [112] _2°(1s_5 in Paschen's notation), the value 134 041.84±0.04 cm^− 1 relative to the ground level. This result was used to calculate all of the observed 2p^ 5nl levels relative to the ground level, by use of Ne i observations published during the last two},
+ author = {Kaufman, Victor and Minnhagen, Lennart},
+ journal = {JOSA},
+ number = {1},
+ pages = {92--95},
+ pub_year = {1972},
+ publisher = {Optical Society of America},
+ title = {Accurate ground-term combinations in Ne i},
+ venue = {JOSA},
+ volume = {62}
+}
+
+
+No Google Scholar results.
+@article{sun1955absorption,
+ abstract = {Absorption cross sections of methane and ammonia for electromagnetic radiation in the range from 1300 A to 374 were obtained with a two‐meter radius of curvature, grazing incidence vacuum spectrograph. For methane 85 wavelengths were measured. Starting from σ= 14 Mb (1 Mb= 10—18 cm2) at 1300 A, the absorption first increased slowly and then rose more rapidly to a maximum of σ= 56 Mb at 960±278 A corresponding to the first ionization potential of methane. The absorption then decreased gradually to 14 Mv at 374 A},
+ author = {Sun, H and Weissler, GL},
+ journal = {The Journal of Chemical Physics},
+ number = {6},
+ pages = {1160--1164},
+ pub_year = {1955},
+ publisher = {American Institute of Physics},
+ title = {Absorption cross sections of methane and ammonia in the vacuum ultraviolet},
+ venue = {The Journal of Chemical Physics},
+ volume = {23}
+}
+
+
+@article{wu1981study,
+ abstract = {Using synchrotron radiation as a continuum background, the absorption cross sections of SO2 have been measured using a double ionization chamber. The cross sections range from 10 to a maximum value of 56 Mb in the 175–760 Å region. A possible window resonance series was observed and tentatively assigned to a Ryberg series converging to the (6a1)− 1 ion state. From the fluorescence excitation function the vibrational progressions of the SO+ 2? 2B2,? 2A1, and? 2B1 ion states have been measured and found in good},
+ author = {Wu, CY Robert and Judge, DL},
+ journal = {The Journal of Chemical Physics},
+ number = {7},
+ pages = {3804--3806},
+ pub_year = {1981},
+ publisher = {American Institute of Physics},
+ title = {Study of sulfur-containing molecules in the EUV region. I. Photoabsorption cross section of SO2},
+ venue = {The Journal of Chemical Physics},
+ volume = {74}
+}
+
+
+@article{nuth1982vacuum,
+ abstract = {Quantitative vacuum ultraviolet absorption spectra for HCN, C 2 N 2, and CH 3 CN have been obtained over the wavelength range 60 nm⪅ λ⪅ 160 nm. Where comparison is possible, our measurements of the absorption coefficients for HCN and C 2 N 2 are consistent with previous studies. Because of the superior resolution of this work (0.05 nm), vibrational assignments in the valence and Rydberg transitions of HCN have been extended while higher members of the Rydberg series in CH 3 CN have been identified.},
+ author = {Nuth, Joseph A and Glicker, Sol},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {3},
+ pages = {223--231},
+ pub_year = {1982},
+ publisher = {Elsevier},
+ title = {The vacuum ultraviolet spectra of HCN, C2N2, and CH3CN},
+ venue = {Journal of Quantitative Spectroscopy and Radiative …},
+ volume = {28}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{schurath1969photolysis,
+ abstract = {Figure 1. Quantum yields of noncondensable gases as a function of ethylene pressure:·, p (NHa)= 37.5 torr; A, p (NH3)= 202.4 torr, p (C2H4)= 28.6 torr. labeled ethylene combined with a flow-counter facili-tated the calibration and permitted the precise deter-mination of products even at very low conversion. Since the flow-counter is insensitive to NHS the analysis of the amines, especiallyof ethylamine, was possible which is otherwise difficult to carry out. The following products were determined quantitatively: H2, N2, N2H4,},
+ author = {Schurath, U and Tiedemann, P and Schindler, Ralph N},
+ journal = {The Journal of Physical Chemistry},
+ number = {2},
+ pages = {456--459},
+ pub_year = {1969},
+ publisher = {ACS Publications},
+ title = {Photolysis of ammonia at 2062 A. in the presence of ethylene},
+ venue = {The Journal of Physical …},
+ volume = {73}
+}
+
+
+@article{barfield1972fits,
+ abstract = {Analytical approximations to results of new calculations of partial (ie by subshell) photoionization cross sections of elements (2< Z< 30, Z= 36) are presented which cover the photon energy range from near threshold to 300 keV. The computer program developed by Brysk and Zerby, which is based on the single-electron model and uses screened self-consistent field and Dirac-Slater wave function data furnished by Cromer, Waber and Liberman, was used. Sufficient multipoles were included to calculate the partial cross},
+ author = {Barfield, WD and Koontz, GD and Huebner, WF},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {10},
+ pages = {1409--1433},
+ pub_year = {1972},
+ publisher = {Elsevier},
+ title = {Fits to new calculations of photoionization cross sections for low-Z elements},
+ venue = {Journal of Quantitative …},
+ volume = {12}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@techreport{molina1980ultraviolet,
+ abstract = {The ultraviolet absorption cross sections for gas phase HO2NO2 have been measured between 190 and 330 nm, at 298K and 1 atm total pressure. The HO2NO2 vapor was prepared in a flowing N2 stream in the presence of H2O, H2O2, HNO3, and NO2. The composition of the mixture was established by visible and infrared absorption spectroscopy and by chemical titration after absorption in aqueous solutions. The experimental uncertainty one standard deviation ranges from 5 at 200 nm to 30 at 330 nm, and mainly falls in the 10},
+ author = {Molina, Luisa T and Molina, Mario J},
+ institution = {CALIFORNIA UNIV IRVINE DEPT OF CHEMISTRY},
+ pub_year = {1980},
+ title = {Ultraviolet Absorption Cross Sections of HO2NO2 Vapor.},
+ venue = {NA}
+}
+
+
+@article{okabe1970photodissociation,
+ abstract = {Strong emission bands originating from NCO A2Σ and NH (A 3π, c 1π) were found in the photodissociation of HNCO in the vacuum ultraviolet. In addition, weak bands coming from NCO B 2Π were observed. Threshold energies of incident photons to produce these bands},
+ author = {Okabe, H},
+ journal = {The Journal of Chemical Physics},
+ number = {9},
+ pages = {3507--3515},
+ pub_year = {1970},
+ publisher = {American Institute of Physics},
+ title = {Photodissociation of HNCO in the Vacuum Ultraviolet; Production of NCO A 2 $\Sigma$ and NH (A 3 $\pi$, $\pi$c 1)},
+ venue = {The Journal of Chemical Physics},
+ volume = {53}
+}
+
+
+@article{huebner1992solar,
+ abstract = {Google Scholar. Gentieu, EP and Mental], JE: 1970, Science 169, 681.ADSCrossRefGoogle Scholar. Gibson, ST, Gies, HPF, Blake, AJ, McCoy, DG, and Rogers, PJ: 1983, J  30, 385.ADSCrossRefGoogle Scholar. Golomb, D., Watanabe, K., and Marmo, FF: 1962, J. Chem},
+ author = {Huebner, Walter F and Keady, John Joseph and Lyon, SP},
+ journal = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ pages = {1--289},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ venue = {Solar photo rates for planetary …}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{hubrich1980ultraviolet,
+ abstract = {The absorption spectra of some chlorine-containing methanes (CCl 4, CCl 3 F, CClF 3, CHCl 3, CH 2 Cl 2 and CH 2 ClF) and ethanes (CCl 2 FCClF 2, CClF 2 CClF 2, CF 3 CClF 2, CF 3 CH 2 Cl, CH 3 CCl 3, CH 3 CClF 2 and CH 3 CH 2 Cl) and also of N 2 O were determined at wavelengths near 220 nm. Some of these spectra were obtained at both 298 and 208 K. Additionally, a chemical method was used to determine the absorption cross section of CCl 3 F at λ= 253.7 nm and the absorption properties at wavelengths above 280},
+ author = {Hubrich, C and Stuhl, F},
+ journal = {Journal of Photochemistry},
+ number = {2},
+ pages = {93--107},
+ pub_year = {1980},
+ publisher = {Elsevier},
+ title = {The ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest},
+ venue = {Journal of Photochemistry},
+ volume = {12}
+}
+
+
+No Google Scholar results.
+@article{prest1983molecular,
+ abstract = {Photoionization efficiency data for H 2 S+, S+ and HS+ have been obtained in the region 645–1190 Å using the molecular beam method. The ionization energy of H 2 S was determined to be 10.4607±0.0026 eV (1185.25±0.30 Å). The observed autoionizing vibrational progressions are tentatively assigned to the Rydberg transitions: 5a 1→ nsa 1 (n= 5 and 6) and 2b 2→ nda 1 (n= 4 and 5).},
+ author = {Prest, HF and Tzeng, W-B and Brom Jr, JM and Ng, CY},
+ journal = {International journal of mass spectrometry and ion physics},
+ number = {3},
+ pages = {315--329},
+ pub_year = {1983},
+ publisher = {Elsevier},
+ title = {Molecular beam photoionization study of H2S},
+ venue = {International journal of mass …},
+ volume = {50}
+}
+
+
+No Google Scholar results.
+@article{barfield1972fits,
+ abstract = {Analytical approximations to results of new calculations of partial (ie by subshell) photoionization cross sections of elements (2< Z< 30, Z= 36) are presented which cover the photon energy range from near threshold to 300 keV. The computer program developed by Brysk and Zerby, which is based on the single-electron model and uses screened self-consistent field and Dirac-Slater wave function data furnished by Cromer, Waber and Liberman, was used. Sufficient multipoles were included to calculate the partial cross},
+ author = {Barfield, WD and Koontz, GD and Huebner, WF},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {10},
+ pages = {1409--1433},
+ pub_year = {1972},
+ publisher = {Elsevier},
+ title = {Fits to new calculations of photoionization cross sections for low-Z elements},
+ venue = {Journal of Quantitative …},
+ volume = {12}
+}
+
+
+No Google Scholar results.
+@incollection{watanabe1958ultraviolet,
+ abstract = {Publisher Summary The chapter is confined to only a part of the upper atmosphere research—namely, the study of absorption processes due to solar radiation of wavelengths from about 2900 Å to 1 Å. This chapter attempts to cover the decade from 1946 to the beginning of the International Geophysical Year, or from the first rocket experiments to the first artificial satellite. The chapter summarizes several types of absorption processes important in the study of the upper atmosphere. Some definitions and equation of state of gases in the upper},
+ author = {Watanabe, Kenichi},
+ booktitle = {Advances in geophysics},
+ pages = {153--221},
+ pub_year = {1958},
+ publisher = {Elsevier},
+ title = {Ultraviolet absorption processes in the upper atmosphere},
+ venue = {Advances in geophysics},
+ volume = {5}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{kurucz1987oh,
+ abstract = {Kurucz, RL, and Avrett, EH 1981, Smithsonian Ap. Obs. Spec. Rep., No. 391. Tarafdar, SP, and Das, PK 1975, MNRAS, 170, 559. van Dishoeck, EF 1987, J. Chem. Phys., 86, 196. van Dishoeck, EF, and Dalgarno, A. 1983, J. Chem. Phys., 79, 873. . 1984, Ap},
+ author = {Kurucz, Robert L and Van Dishoeck, Ewine F and Tarafdar, SP},
+ journal = {The Astrophysical Journal},
+ pages = {992--998},
+ pub_year = {1987},
+ title = {OH and CH continuous opacity in solar and stellar atmospheres},
+ venue = {The Astrophysical …},
+ volume = {322}
+}
+
+
+No Google Scholar results.
+@article{phillips1977absolute,
+ abstract = {Absolute photoabsorption cross sections for H 2 O and D 2 O have been measured photoelectrically from λλ 180 to 790 Å using synchrotron radiation. The cross sections increase smoothly with wavelength to∼ λ610 Å, with both H 2 O and D 2 O displaying a broad absorption band extending above a nearly linear background from λλ 400 to 490 Å. The continuum has a maximum of∼ 22.5 Mb at λ 640 Å. Above λ 615 Å, superimposed on the continuum, a diffuse structure appears which is similar to the vibrational structure of the 2},
+ author = {Phillips, E and Lee, LC and Judge, DL},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {3},
+ pages = {309--313},
+ pub_year = {1977},
+ publisher = {Elsevier},
+ title = {Absolute photoabsorption cross sections for H2O and D2O from $\lambda$ 180--790 {\AA}},
+ venue = {Journal of Quantitative Spectroscopy and …},
+ volume = {18}
+}
+
+
+@article{samson1987total,
+ abstract = {The absolute cross sections for the production of N+ and N+ 2 have been measured from the dissociative ionization threshold to 115 Å. In addition, the absolute photoabsorption and photoionization cross sections are tabulated between 114 and 796 Å. The ionization},
+ author = {Samson, James AR and Masuoka, T and Pareek, PN and Angel, GC},
+ journal = {The Journal of chemical physics},
+ number = {11},
+ pages = {6128--6132},
+ pub_year = {1987},
+ publisher = {American Institute of Physics},
+ title = {Total and dissociative photoionization cross sections of N2 from threshold to 107 eV},
+ venue = {The Journal of chemical …},
+ volume = {86}
+}
+
+
+@article{selwyn1977nitrous,
+ abstract = {The absorption spectrum of nitrous oxide (N2O) has been determined at five temperatures from 194 to 302 K and over the wavelength range 173‐240 nm. The absorption cross sections as a function of wavelength and temperature are expressed by a nine‐term polynomial in a form useful for atmospheric models. The high resolution structure between 173 and 190 nm has been observed more clearly than by previous studies.},
+ author = {Selwyn, Gary and Podolske, James and Johnston, Harold S},
+ journal = {Geophysical Research Letters},
+ number = {10},
+ pages = {427--430},
+ pub_year = {1977},
+ publisher = {Wiley Online Library},
+ title = {Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures},
+ venue = {Geophysical Research …},
+ volume = {4}
+}
+
+
+No Google Scholar results.
+@article{radziemski1974wavelengths,
+ abstract = {We have observed the spectrum of singly ionized chlorine (CI ii) with grating spectrographs from 500 to 11 000 Å using a ring discharge and a pulsed rf-discharge source. The accuracy of the observed wavelengths is about 0.002 Å from 500 to 3000 Å and 0.01 Å from 3000 to},
+ author = {Radziemski, Leon J and Kaufman, Victor},
+ journal = {JOSA},
+ number = {3},
+ pages = {366--389},
+ pub_year = {1974},
+ publisher = {Optical Society of America},
+ title = {Wavelengths, energy levels, and analysis of the second spectrum of chlorine (Cl II)},
+ venue = {JOSA},
+ volume = {64}
+}
+
+
+@article{eden2003high,
+ abstract = {2003 Published online 22 July 2003 – c EDP Sciences, Societ`a Italiana di Fisica, Springer-Verlag 2003  of the major features are in good agree- ment with the photo-absorption spectrum taken  of 9.180 Mb occurring at 9.350 eV before a series of strongly absorbing sharp peaks},
+ author = {Eden, S and Limao-Vieira, P and Kendall, P and Mason, NJ and Hoffmann, SV and Spyrou, SM},
+ journal = {The European Physical Journal D-Atomic, Molecular, Optical and Plasma Physics},
+ number = {2},
+ pages = {201--210},
+ pub_year = {2003},
+ publisher = {Springer},
+ title = {High resolution photo-absorption studies of acrylonitrile, C 2 H 3 CN, and acetonitrile, CH 3 CN},
+ venue = {The European Physical …},
+ volume = {26}
+}
+
+
+No Google Scholar results.
+@article{polasek2016selective,
+ abstract = {View Author Information. † J. Heyrovský Institute of Physical Chemistry, Academy of Sciences of the Czech Republic, Dolejškova 2155/3, 18223 Prague 8, Czech Republic  Cite this: J. Phys. Chem  Copyright © 2016 American Chemical Society. RIGHTS & PERMISSIONS},
+ author = {Polasek, Miroslav and Zins, Emilie-Laure and Alcaraz, Christian and Zabka, Jan and Krizova, Vera and Giacomozzi, Linda and Tosi, Paolo and Ascenzi, Daniela},
+ journal = {The Journal of Physical Chemistry A},
+ number = {27},
+ pages = {5041--5052},
+ pub_year = {2016},
+ publisher = {ACS Publications},
+ title = {Selective Generation of the Radical Cation Isomers [CH3CN]•+ and [CH2CNH]•+ via VUV Photoionization of Different Neutral Precursors and Their Reactivity with C2H4},
+ venue = {… of Physical Chemistry …},
+ volume = {120}
+}
+
+
+@article{molina1977ultraviolet,
+ abstract = {The near ultraviolet absorption spectrum of chlorine nitrite (ClONO) has been quantitatively investigated over the wavelength range 230‐400 nm at 231° K. An absorption maximum was observed at 290 nm with a cross section of 1.5× 10− 18 cm². The calculated lifetime against photodissociation for ClONO in the atmosphere is 2 to 3 minutes. The large photolysis rate indicates that ClONO does not play a significant role in the stratosphere as a temporary holding tank for chlorine.},
+ author = {Molina, Luisa T and Molina, Mario J},
+ journal = {Geophysical Research Letters},
+ number = {2},
+ pages = {83--86},
+ pub_year = {1977},
+ publisher = {Wiley Online Library},
+ title = {Ultraviolet absorption spectrum of chlorine nitrite, ClONO},
+ venue = {Geophysical Research Letters},
+ volume = {4}
+}
+
+
+@article{calvert1966photochemistry,
+ author = {Calvert, Jack G and Pitts Jr, James N},
+ journal = {Inc.: New York},
+ pages = {780--786},
+ pub_year = {1966},
+ title = {Photochemistry, John Wiley \& Sons},
+ venue = {NA}
+}
+
+
+@article{rienstra2002atomic,
+ abstract = {The energy difference between an uncharged species and its negative ion, referred to as an electron affinity (EA), is an important property of atoms and molecules. Negative ions, or anions, result from neutral molecules (often radicals) binding an additional electron. The importance and utility of EAs extend well beyond the regime of gas-phase ion chemistry. 1 Indeed, there are many areas of pure chemistry, 2-6 materials science, and environmental chemistry7 where the properties of negative ions and radicals are important. A survey of},
+ author = {Rienstra-Kiracofe, Jonathan C and Tschumper, Gregory S and Schaefer, Henry F and Nandi, Sreela and Ellison, G Barney},
+ journal = {Chemical reviews},
+ number = {1},
+ pages = {231--282},
+ pub_year = {2002},
+ publisher = {ACS Publications},
+ title = {Atomic and molecular electron affinities: photoelectron experiments and theoretical computations},
+ venue = {Chemical …},
+ volume = {102}
+}
+
+
+@article{gentieu1970formaldehyde,
+ abstract = {The absorption spectrum of formaldehyde has been measured photo-electrically from 650 to 1850 angstroms. A broad continuum observed at wavelengths shorter than 1570 angstroms will be the major spectral feature contributing to the formaldehyde lifetime in the interstellar radiation field.},
+ author = {Gentieu, EP and Mentall, JE},
+ journal = {Science},
+ number = {3946},
+ pages = {681--683},
+ pub_year = {1970},
+ publisher = {American Association for the Advancement of Science},
+ title = {Formaldehyde Absorption Coefficients in the Vacuum Ultraviolet (650 to 1850 Angstroms)},
+ venue = {Science},
+ volume = {169}
+}
+
+
+@article{srivastava1992preparation,
+ abstract = {4. K. Oshima, M. Yokoyama, H. Ninode, M. Wakihara and M. Taniguchi, J. Solid State Chem. 65 (1986) 392  6. H. Fjellvaag, S. Furuseth, A. Kjekshus and T. Rakke, Solid State Commun  8. S. Kikkawa, M. Koizumi, S. Yamanaka, Y. Onuki and S. Tanuma, J. Solid State Chem},
+ author = {Srivastava, SK and Avasthi, BN},
+ journal = {Journal of materials science},
+ number = {14},
+ pages = {3693--3705},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Preparation, structure and properties of transition metal trichalcogenides},
+ venue = {Journal of materials science},
+ volume = {27}
+}
+
+
+@misc{kelly1987unpublished,
+ author = {Kelly, RL},
+ pub_year = {1987},
+ publisher = {Suppl},
+ title = {unpublished level list prepared for line classifications published in J. Phys. Chem. Ref. Data 16},
+ venue = {NA}
+}
+
+
+No Google Scholar results.
+@article{sugar1990energy,
+ abstract = {The energy levels of the copper atom, in all stages of ionization for which experimental data are available, have been compiled. Ionization energies, either experimental or theoretical, and experimental g‐factors are given. Leading components of calculated eigenvectors are listed.},
+ author = {Sugar, Jack and Musgrove, Arlene},
+ journal = {Journal of physical and chemical reference data},
+ number = {3},
+ pages = {527--616},
+ pub_year = {1990},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Energy levels of copper, Cu I through Cu XXIX},
+ venue = {Journal of physical and chemical reference …},
+ volume = {19}
+}
+
+
+No Google Scholar results.
+@article{molina1979ultraviolet,
+ abstract = {The ultraviolet absorption cross sections of methylhydroperoxide, CH3OOH, have been measured over the wavelength range 210 nm to 350 nm at 294 K. We conclude that solar photolysis is a dominant sink for tropospheric CH3OOH. For midlatitudes the photodissociation rate is estimated to be∼ 4.3× 10− 6 s− 1 for 0°, 3.7× 10− 6 s− 1 for 30°, and 1.0× 10− 6 s− 1 for 70° zenith angle.},
+ author = {Molina, MJ and Arguello, G},
+ journal = {Geophysical Research Letters},
+ number = {12},
+ pages = {953--955},
+ pub_year = {1979},
+ publisher = {Wiley Online Library},
+ title = {Ultraviolet absorption spectrum of methylhydroperoxide vapor},
+ venue = {Geophysical Research Letters},
+ volume = {6}
+}
+
+
+@article{nelson1981kinetics,
+ abstract = {Materials & Molecular Research Division .. Submitted to Journal of Physical Chemistryc~_ THE KINETICS OF THE REACTION OF Cl WITH ClNO AND ClN02 AND THE PHOTOCHEMISTRY OF ClN02 HH Nelson and HS Johnston June 1981 TWO-WEEK lOAN COPY This is a library Circulating Copy which may be borrowed for two weeks. For a personal retention copy, call Tech. Info. Dioision, Ext. 6782  Chem. 68, 2263 (1964). · 14. F. Magnotta and HS Johnston, Geophys. Res. Lett. I, 769 (1980). 15. NM Ballash and DA Armstrong, Spectrochim. Acta 30A, 941 (1974)},
+ author = {Nelson, HH and Johnston, HS},
+ pub_year = {1981},
+ title = {THE KINETICS OF THE REACTION OF Cl WITH ClNO AND ClNO2 AND THE PHOTOCHEMISTRY OF ClNO2},
+ venue = {NA}
+}
+
+
+@inproceedings{simon1988temperature,
+ abstract = {New absorption cross-sections of three haloethanes CF, Cl, CFCl,(CFCl-CF, Cl), and C, F, Cl,(CF, Cl-CFC1) measured between 172 and 250 nm for temperatures ranging from 225 to 295 K, are presented with uncertainties between 2 and 4%. They are compared with},
+ author = {Simon, PC and Gillotay, D and Vanlaethem-Meuree, N and Wisemberg, J},
+ booktitle = {Annales Geophysicae},
+ number = {3},
+ pages = {239--248},
+ pub_year = {1988},
+ title = {Temperature dependence of ultraviolet absorption},
+ venue = {Annales …},
+ volume = {6}
+}
+
+
+@book{huber2013molecular,
+ abstract = {Since the publication in 1950 of Vol. I, Spectra of Diatomic Molecules of Molecular Spectra and Molecular Structure, much progress has been made in the field. While there have been some important refinements in the theory of diatomic molecular spectra, most of the},
+ author = {Huber, Klaus-Peter},
+ pub_year = {2013},
+ publisher = {Springer Science \& Business Media},
+ title = {Molecular spectra and molecular structure: IV. Constants of diatomic molecules},
+ venue = {NA}
+}
+
+
+@article{metzger1964continuous,
+ abstract = {The hydrogen‐containing molecules H2O, NH3, CH4, C2H2, C2H4, and C2H6 have strong continuous absorption spectra in the 12 to 21 eV (600‐to‐1000‐Å) region. Photoionization and absorption coefficients and cross sections have been computed from absorption and ionization spectra using the Hopfield He continuum as a continuous background‐radiation source. A parallel plate combination absorption and ionization chamber was used behind the exit slit of a Seya scanning vacuum monochromator arranged for 0.5 Å bandwidth. Data},
+ author = {Metzger, PH and Cook, GR},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {642--648},
+ pub_year = {1964},
+ publisher = {American Institute of Physics},
+ title = {On the Continuous Absorption, Photoionization, and Fluorescence of H2O, NH3, CH4, C2H2, C2H4, and C2H6 in the 600-to-1000-{\AA} Region},
+ venue = {The Journal of Chemical Physics},
+ volume = {41}
+}
+
+
+@inproceedings{melikechi2008laser,
+ abstract = {8. http://physics.nist.gov/PhysRefData/Handbook/Tables/findinglist.htm 9. CE Moore, “Selected table of atomic spectra  10. CE Moore, Tables of Spectra of Hydrogen, Carbon, Nitrogen, and Oxygen, JW Gallagher, ed., CRC Press, Inc., Boca Raton, FL (1993). 11},
+ author = {Melikechi, N and Ding, H and Rock, S and Connolly, D and others},
+ booktitle = {Optical Diagnostics and Sensing VIII},
+ organization = {International Society for Optics and Photonics},
+ pages = {68630O},
+ pub_year = {2008},
+ title = {Laser-induced breakdown spectroscopy of whole blood and other liquid organic compounds},
+ venue = {Optical Diagnostics and …},
+ volume = {6863}
+}
+
+
+No Google Scholar results.
+@article{herman1982o2,
+ abstract = {The absorption cross sections of molecular oxygen are calculated in the wavelength range from 187 to 230 nm from solar flux measurements obtained within the stratosphere. Within the Herzberg continuum wavelength region the molecular oxygen cross sections are found to be about 30% smaller than the laboratory results of Shardanand and Rao (1977) from 200 to 210 nm and about 50% smaller than those of Hasson and Nicholls (1971). At wavelengths longer than 210 nm the cross sections agree with those of Shardanand and Rao. The},
+ author = {Herman, JR and Mentall, JE},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C11},
+ pages = {8967--8975},
+ pub_year = {1982},
+ publisher = {Wiley Online Library},
+ title = {O2 absorption cross sections (187--225 nm) from stratospheric solar flux measurements},
+ venue = {Journal of Geophysical Research …},
+ volume = {87}
+}
+
+
+@article{ackerman1970absorption,
+ abstract = {A new study of the absorption bands of the Schumann-Runge system of molecular oxygen, which overlap the Herzberg continuum is made in order to improve the aeronomic calculations in the mesosphere and stratosphere. After a complete analysis performed at high resolution of the rotational structure from the (0-0) band at 2050 Å to the dissociation limit at 1750 Å, absorption cross section values for various rotational lines are measured from 2011· 63 to 1763· 66 Å using emission silicon lines of which wavelengths are known},
+ author = {Ackerman, Marcel and Biaume, F and Kockarts, Gaston},
+ journal = {Planetary and Space Science},
+ number = {11},
+ pages = {1639--1651},
+ pub_year = {1970},
+ publisher = {Elsevier},
+ title = {Absorption cross sections of the Schumann-Runge bands of molecular oxygen},
+ venue = {Planetary and Space Science},
+ volume = {18}
+}
+
+
+@article{schurgers1968absorptionskoeffizient,
+ abstract = {Von Wasserstoffperoxid und Hydrazin sind das Absorptionsspektrum und der Absorptionskoeffizient nur im Wellenlängengebiet oberhalb von 2000 Ä systematisch untersucht bzw. gemessen worden l. Unterhalb von 2000 A liegen von N2H4 Absorptionskoeffizienten nur für einige Wellenlängen vor2. Im Zusammenhang mit neueren photochemischen Arbeiten an H202 und N2H4 im Vakuum-UV2> 3 wurde deshalb der Absorptionskoeffizient dieser Moleküle im Bereich von 2000 bis 1200 A untersucht.},
+ author = {Sch{\"u}rgers, M and Welge, KH},
+ journal = {Zeitschrift f{\"u}r Naturforschung A},
+ number = {10},
+ pages = {1508--1510},
+ pub_year = {1968},
+ publisher = {Verlag der Zeitschrift f{\"u}r Naturforschung},
+ title = {Absorptionskoeffizient von H2O2 und N2H4 zwischen 1200 und 2000 {\AA}},
+ venue = {Zeitschrift für Naturforschung A},
+ volume = {23}
+}
+
+
+@article{slanger1982photodissociative,
+ abstract = {H (2S) and O (1D, 3P) yields have been measured from photolysis of H2O, NH3, and CH4 at 1216 Å. From H2O, it is confirmed that the H2+ O (1D) channel occurs with a yield of 0.1, but in addition there is a yield of 0.12 for the channel giving 2H (2S)+ O (3P). The remaining process is H+ OH production. For NH3, the NH+ 2H (2S) channel accounts for at least 90% of the dissociation. For CH4, combination of our data with earlier work on H2 and CH production at 1236 Å leads to the conclusion that the two major dissociative channels},
+ author = {Slanger, Tom G and Black, Graham},
+ journal = {The Journal of Chemical Physics},
+ number = {5},
+ pages = {2432--2437},
+ pub_year = {1982},
+ publisher = {American Institute of Physics},
+ title = {Photodissociative channels at 1216 {\AA} for H2O, NH3, and CH4},
+ venue = {The Journal of Chemical Physics},
+ volume = {77}
+}
+
+
+@article{ditchburn1955absorption,
+ abstract = {Cross-sections for the continuous absorption of radiation by methane in the wave-length range 1600 to 350A have been measured. The absorption is analyzed so as to distinguish between absorption leading to photo-dissociation processes and absorption due to photoionization. The main photo-ionization process is CH4+ hv-> CH4+-e-, and the photoionization cross-section is measured for free electron energies from 0 to about 20 eV. Little evidence is found for processes such as CH4+ hv-> CH2+ H+ e-The results are},
+ author = {Ditchburn, Robert William},
+ journal = {Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences},
+ number = {1176},
+ pages = {44--62},
+ pub_year = {1955},
+ publisher = {The Royal Society London},
+ title = {Absorption cross-sections in the vacuum ultra-violet III. Methane},
+ venue = {Proceedings of the Royal Society of …},
+ volume = {229}
+}
+
+
+No Google Scholar results.
+@article{matsunaga1967total,
+ author = {Matsunaga, FM and Watanabe, K},
+ journal = {Sci. Light},
+ pages = {31--42},
+ pub_year = {1967},
+ title = {Total and photoionization coefficients and dissociation continua of O 2 in the 580--1070 {\AA} region},
+ venue = {NA},
+ volume = {16}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{oganessian2010synthesis,
+ abstract = {A new method of synthesizing superheavy elements, with Z ! 112 and neutron numbers closer to  several independent experiments [5–8]. We present here the experimental evidence for synthesis of a  a new chemical element with atomic number 117 has been synthesized in the},
+ author = {Oganessian, Yu Ts and Abdullin, F Sh and Bailey, PD and Benker, DE and Bennett, ME and Dmitriev, SN and Ezold, Julie G and Hamilton, JH and Henderson, Roger A and Itkis, MG and others},
+ journal = {Physical review letters},
+ number = {14},
+ pages = {142502},
+ pub_year = {2010},
+ publisher = {APS},
+ title = {Synthesis of a new element with atomic number Z= 117},
+ venue = {Physical review …},
+ volume = {104}
+}
+
+
+@article{katayama1973absorption,
+ abstract = {The total absorption, photoionization and neutral product cross sections for H2O and D2O have been determined over the wavelength range 580 to 1050 Å. The helium continuum was used as a background with a bandwidth of approximately 0.5 Å. Previously observed Rydberg series converging to the (000) level of the ionic ground state have been extended and utilized to obtain ionization thresholds of H2O (982.47±0.5 Å, 12.619±0.006 eV) and D2O (981.16±0.5 Å, 12.636±0.006 eV). At wavelengths shorter than 1000 Å, the total cross},
+ author = {Katayama, DH and Huffman, RE and O'Bryan, CL},
+ journal = {The Journal of Chemical Physics},
+ number = {8},
+ pages = {4309--4319},
+ pub_year = {1973},
+ publisher = {American Institute of Physics},
+ title = {Absorption and photoionization cross sections for H2O and D2O in the vacuum ultraviolet},
+ venue = {The Journal of Chemical …},
+ volume = {59}
+}
+
+
+@article{james1994resonant,
+ abstract = {Resonant two photon ionization (R2PI) spectroscopy was used to obtain detailed spectroscopic information on the neutral and cation ground states of the jet‐cooled molecules V2, VNb, and Nb2. By recording photoionization efficiency (PIE) spectra, their adiabatic ionization potentials were determined to be 51 269 (5) cm− 1 (V2), 51 554 (10) cm− 1 (VNb), and 51 359 (10) cm− 1 (Nb2). In VNb, we used different ionization routes to determine that the splitting between the Ω= 0 and Ω= 1 spin–orbit components of the X 3Σ},
+ author = {James, Andrew M and Kowalczyk, Pawel and Langlois, Etienne and Campbell, Margot D and Ogawa, Ayano and Simard, Benoit},
+ journal = {The Journal of chemical physics},
+ number = {6},
+ pages = {4485--4495},
+ pub_year = {1994},
+ publisher = {American Institute of Physics},
+ title = {Resonant two photon ionization spectroscopy of the molecules V2, VNb, and Nb2},
+ venue = {The Journal of …},
+ volume = {101}
+}
+
+
+@article{magnotta1980photodissociation,
+ abstract = {The nitrate free radical was photolyzed by a pulsed tunable dye laser between 470 and 685 nm, at 296 K, and in the presence of 10 torr N2. The two product channels, NO+ O2 and NO2+ O, were measured by resonance fluorescence of NO or of O. Absolute calibration of the method was achieved by in situ ultraviolet photolysis of NO2, which yields both NO and O. With these data on photochemical yields, the photolysis coefficients for the two product channels at the surface of the earth with an overhead sun over wavelengths 470‐700 nm},
+ author = {Magnotta, Frank and Johnston, Harold S},
+ journal = {Geophysical Research Letters},
+ number = {10},
+ pages = {769--772},
+ pub_year = {1980},
+ publisher = {Wiley Online Library},
+ title = {Photodissociation quantum yields for the NO3 free radical},
+ venue = {Geophysical Research Letters},
+ volume = {7}
+}
+
+
+@article{martin1990r,
+ author = {Martin, WC},
+ journal = {J. Phys. Chem. Ref. Data},
+ pages = {821},
+ pub_year = {1990},
+ title = {R. Zalubas and A. Musgrove},
+ venue = {NA},
+ volume = {19}
+}
+
+
+@book{moore1993tables,
+ abstract = {view. Abstract. Citations (142). References. Co-Reads. Similar Papers. Volume Content. Graphics. Metrics. Export Citation. NASA/ADS. Tables of Spectra of Hydrogen, Carbon, Nitrogen, and Oxygen Atoms and Ions. Moore, CE. Abstract. Publication: Moore. Pub Date: 1993 Bibcode: 1993tshc.book.....M Keywords: Atomic spectra; Molecular spectra; Gases spectra. No Sources Found. © The SAO/NASA Astrophysics Data System adshelp[at]cfa.harvard.edu. The ADS is operated by the Smithsonian Astrophysical},
+ author = {Moore, Charlotte Emma},
+ pub_year = {1993},
+ title = {Tables of spectra of hydrogen, carbon, nitrogen, and oxygen atoms and ions},
+ venue = {NA}
+}
+
+
+@article{kaufman1991wavelengths,
+ abstract = {Wavelengths and their classifications are compiled for the spectra of magnesium. Selections of data are based on the critical evaluations in the compilation of energy levels by Martin and Zalubas [1980, J. Phys. Chem. Ref. Data 9, 1–58], with some updating from the more recent literature. All classifications have been verified with predictions made by differencing the energy levels. In addition to the spectra ordered by ionization state, two finding lists are included, one containing Mg I to Mg III and the other Mg IV to Mg XII.},
+ author = {Kaufman, Victor and Martin, William C},
+ journal = {Journal of physical and chemical reference data},
+ number = {1},
+ pages = {83--152},
+ pub_year = {1991},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Wavelengths and energy level classifications of magnesium spectra for all stages of ionization (Mg I through Mg XII)},
+ venue = {… of physical and chemical reference data},
+ volume = {20}
+}
+
+
+@article{kaufman1991wavelengths,
+ abstract = {Wavelengths and their classifications are compiled for the spectra of magnesium. Selections of data are based on the critical evaluations in the compilation of energy levels by Martin and Zalubas [1980, J. Phys. Chem. Ref. Data 9, 1–58], with some updating from the more recent literature. All classifications have been verified with predictions made by differencing the energy levels. In addition to the spectra ordered by ionization state, two finding lists are included, one containing Mg I to Mg III and the other Mg IV to Mg XII.},
+ author = {Kaufman, Victor and Martin, William C},
+ journal = {Journal of physical and chemical reference data},
+ number = {1},
+ pages = {83--152},
+ pub_year = {1991},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Wavelengths and energy level classifications of magnesium spectra for all stages of ionization (Mg I through Mg XII)},
+ venue = {… of physical and chemical reference data},
+ volume = {20}
+}
+
+
+No Google Scholar results.
+@article{palenius1969spectrum,
+ author = {Palenius, HP},
+ journal = {ARKIV FOR FYSIK},
+ number = {1},
+ pages = {15},
+ pub_year = {1969},
+ publisher = {ROYAL SWEDISH ACAD SCIENCES PUBL DEPT BOX 50005, S-104 05 STOCKHOLM, SWEDEN},
+ title = {SPECTRUM AND TERM SYSTEM OF SINGLY IONIZED FLUORINE, F2},
+ venue = {ARKIV FOR FYSIK},
+ volume = {39}
+}
+
+
+@book{huber2013molecular,
+ abstract = {Since the publication in 1950 of Vol. I, Spectra of Diatomic Molecules of Molecular Spectra and Molecular Structure, much progress has been made in the field. While there have been some important refinements in the theory of diatomic molecular spectra, most of the},
+ author = {Huber, Klaus-Peter},
+ pub_year = {2013},
+ publisher = {Springer Science \& Business Media},
+ title = {Molecular spectra and molecular structure: IV. Constants of diatomic molecules},
+ venue = {NA}
+}
+
+
+@article{vanlaethem1979ultraviolet,
+ abstract = {Ultraviolet absorption cross sections of methylchloroform CH3CCl3 have been measured in the wavelength interval 180‐240 nm and temperature range 210‐295 K. Numerical values are given and compared with existing data at ambient temperature. Photodissociation coefficients have been calculated for altitudes between 20 and 45 km and appear to be significantly lower than generally considered. The substantial decrease in absorption cross sections observed at low temperatures and λ> 210 nm has only a minor influence on overall},
+ author = {Vanlaethem-Meur{\'e}e, N and Wisemberg, J and Simon, PC},
+ journal = {Geophysical Research Letters},
+ number = {6},
+ pages = {451--454},
+ pub_year = {1979},
+ publisher = {Wiley Online Library},
+ title = {Ultraviolet absorption spectrum of methylchloroform in the vapor phase},
+ venue = {Geophysical Research …},
+ volume = {6}
+}
+
+
+@article{walker1972photoionization,
+ abstract = {Many body perturbation theory is used to calculate an approximate Hartree-Fock photoionization cross section for CH. the results show a large increase at threshold compared to that obtained from unperturbed atomic matrix elements. At higher energies the cross section approaches the atomic value.},
+ author = {Walker, TEH and Kelly, HP},
+ journal = {Chemical Physics Letters},
+ number = {3},
+ pages = {511--514},
+ pub_year = {1972},
+ publisher = {Elsevier},
+ title = {The photoionization cross section for diatomic CH},
+ venue = {Chemical Physics Letters},
+ volume = {16}
+}
+
+
+@article{lin1978ultraviolet,
+ abstract = {The absorption cross sections of hydrogen peroxide vapor in the wavelength range from 195 to 350 nm were determined at 296 K. The absorption cross sections of neutral aqueous solutions of hydrogen peroxide were also measured in the same wavelength range. The results are compared with those of other workers, and calculated photodissociation coefficients of atmospheric hydrogen peroxide are presented.},
+ author = {Lin, CL and Rohatgi, NK and DeMore, WB},
+ journal = {Geophysical Research Letters},
+ number = {2},
+ pages = {113--115},
+ pub_year = {1978},
+ publisher = {Wiley Online Library},
+ title = {Ultraviolet absorption cross sections of hydrogen peroxide},
+ venue = {Geophysical Research …},
+ volume = {5}
+}
+
+
+@article{mount1978photoabsorption,
+ abstract = {Photoabsorption cross sections of methane and ethane have been determined in the wavelength range from 1380 to 1600 A at room (295 K) and dry-ice (200 K) temperatures. It is found that the room-temperature ethane data are in excellent agreement with the older measurements of Okabe and Becker (1963) rather than with more recent determinations and that a small systematic blueshift occurs at the foot of the molecular absorption edges of both gases as the gases are cooled from room temperature to 200 K, a value close to the actual},
+ author = {Mount, GEORGE H and Moos, HW},
+ journal = {The astrophysical journal},
+ pages = {L35--L38},
+ pub_year = {1978},
+ title = {Photoabsorption cross sections of methane and ethane, 1380-1600 A, at T equals 295 K and T equals 200 K},
+ venue = {The astrophysical journal},
+ volume = {224}
+}
+
+
+@article{samson1964absorption,
+ abstract = {Photoionization and total absorption cross sections have been measured for O2 and N2 at wavelengths below 1100 A. These wavelengths correspond to intense solar emission lines. The solar emission lines were reproduced in the laboratory using a high voltage condensed spark discharge and a dc glow discharge. Most of the lines were completely resolved by the vacuum monochromator; thus the wavelength bandpass was not limited to that of the monochromator but rather to the widths of the lines generated within the light sources. The},
+ author = {Samson, James AR and Cairns, RB},
+ journal = {Journal of Geophysical Research},
+ number = {21},
+ pages = {4583--4590},
+ pub_year = {1964},
+ publisher = {Wiley Online Library},
+ title = {Absorption and photoionization cross sections of O2 and N2 at intense solar emission lines},
+ venue = {Journal of Geophysical Research},
+ volume = {69}
+}
+
+
+@article{lee1973absorption,
+ abstract = {The absorption cross sections of N 2, O 2, CO, NO, CO 2, N 2 O, CH 4, C 2 H 4, C 2 H 6, C 4 H 10 have been measured photoelectrically in the 180–700 Å region using synchrotron radiation. The absorption cross sections in the region λ≥ 500 Å was found to be structureless and to increase monotonically with wavelength for all gases. The positions of the structure observed in the 520–720 Å region for N 2, O 2, CO 2 and N 2 O are consistent with the various Rydberg series reported by previous authors.},
+ author = {Lee, LC and Carlson, RW and Judge, DL and Ogawa, M},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {10},
+ pages = {1023--1031},
+ pub_year = {1973},
+ publisher = {Elsevier},
+ title = {The absorption cross sections of N2, O2, CO, NO, CO2, N2O, CH4, C2H4, C2H6 and C4H10 from 180 to 700{\AA}},
+ venue = {Journal of Quantitative …},
+ volume = {13}
+}
+
+
+@article{barfield1972fits,
+ abstract = {Analytical approximations to results of new calculations of partial (ie by subshell) photoionization cross sections of elements (2< Z< 30, Z= 36) are presented which cover the photon energy range from near threshold to 300 keV. The computer program developed by Brysk and Zerby, which is based on the single-electron model and uses screened self-consistent field and Dirac-Slater wave function data furnished by Cromer, Waber and Liberman, was used. Sufficient multipoles were included to calculate the partial cross},
+ author = {Barfield, WD and Koontz, GD and Huebner, WF},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {10},
+ pages = {1409--1433},
+ pub_year = {1972},
+ publisher = {Elsevier},
+ title = {Fits to new calculations of photoionization cross sections for low-Z elements},
+ venue = {Journal of Quantitative …},
+ volume = {12}
+}
+
+
+No Google Scholar results.
+@article{lurio1977measurement,
+ abstract = {no. 72-2174 (unpublished) Hubbell JH 1971 Atomic Datu 3 241 Hubbell JH and Veigele WJ 1976 NBS Technical Note NO. 901 (Available from Superintendent of Docu- Kahn JM, Potter DL and Worley RD 1965 Phys. Reo},
+ author = {Lurio, A and Reuter, W},
+ journal = {Journal of Physics D: Applied Physics},
+ number = {15},
+ pages = {2127},
+ pub_year = {1977},
+ publisher = {IOP Publishing},
+ title = {Measurement of soft X-ray mass absorption coefficients by a thin film technique using proton-induced X-rays},
+ venue = {Journal of Physics D: Applied Physics},
+ volume = {10}
+}
+
+
+@article{pouilly1983photodissociation,
+ abstract = {Ab initio methods are used to compute photodissociation and radiative processes occurring in interstellar C 2 from the X 1 Sigma g+ ground state. To this end, self-consistent-field+ configuration interaction wavefunctions and potential energy curves of the X 1 Sigma g+ and the first four 1 Pi u states and transition moments between the ground and excited electronic states are computed. Photodissociation cross sections for absorption into the second and third 1 Pi u states are calculated and the corresponding interstellar photodissociation},
+ author = {Pouilly, B and Robbe, JM and Schamps, J and Roueff, E},
+ journal = {Journal of Physics B: Atomic and Molecular Physics},
+ number = {3},
+ pages = {437},
+ pub_year = {1983},
+ publisher = {IOP Publishing},
+ title = {Photodissociation and radiative processes in interstellar C2},
+ venue = {Journal of Physics B …},
+ volume = {16}
+}
+
+
+@article{huebner1992solar,
+ abstract = {Beutler, H. and Jünger, H.-O.: 1936, Z. Phys. 100, 80.ADSCrossRefGoogle Scholar. Biaume, F.: 1973, J. Photochem  Phys. 66, 4591.ADSCrossRefGoogle Scholar. Black, G., Sharpless, RL, Slanger, TG, and Lorents, DC: 1975, J. Chem Phys},
+ author = {Huebner, Walter F and Keady, John Joseph and Lyon, SP},
+ journal = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ pages = {1--289},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ venue = {Solar photo rates for planetary …}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{martin1985energy,
+ abstract = {Energy level data are given for the atom and all positive ions of phosphorus (Z= 15). These data have been critically compiled, mainly from published and unpublished material on measurements and analyses of the optical spectra. We have derived or recalculated the levels for a number of the ions. In addition to the level values in cm− 1 and the parity, the J value and the configuration and term assignments are listed if known. Leading percentages from the calculated eigenvectors are tabulated or quoted wherever available. Ionization},
+ author = {Martin, William Clyde and Zalubas, Romuald and Musgrove, Arlene},
+ journal = {Journal of physical and chemical reference data},
+ number = {3},
+ pages = {751--802},
+ pub_year = {1985},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Energy Levels of Phosphorus, P i through P xv},
+ venue = {Journal of physical and …},
+ volume = {14}
+}
+
+
+@techreport{moore1970ionization,
+ abstract = {A current table of ionization potentials expressed in electron volts and a detailed table giving the limits from which they have been derived are presented. For each spectrum the ground term is given, with the list as the ground state. The energy levels of terms of the lowest configuration determined from ground state zero, are also included for selected spectra. The literature references used for each spectrum are indicated by number and listed in a bibliography with some 200 entries. The latest recommended conversion factor 1cm to eV},
+ author = {Moore, Charlotte E},
+ institution = {NATIONAL STANDARD REFERENCE DATA SYSTEM},
+ pub_year = {1970},
+ title = {Ionization potentials and ionization limits derived from the analyses of optical spectra},
+ venue = {NA}
+}
+
+
+@article{watanabe1964absorption,
+ abstract = {Absorption and photoionization cross sections of H2O in the region 850–1110 Å and H2S in the region 1060–2100 Å were measured by photoelectric methods. The absorption curves support the photographic study of H2O and H2S by Price. The photoionization curves yielded the following ionization potentials: 12.62 eV for H2O and 10.46 eV for H2S.},
+ author = {Watanabe, K and Jursa, AS},
+ journal = {The Journal of Chemical Physics},
+ number = {6},
+ pages = {1650--1653},
+ pub_year = {1964},
+ publisher = {American Institute of Physics},
+ title = {Absorption and photoionization cross sections of H2O and H2S},
+ venue = {The Journal of Chemical Physics},
+ volume = {41}
+}
+
+
+@article{browning1973dissociative,
+ abstract = {The dissociative photoionization of H 2 and D 2 has been investigated experimentally and theoretically from just below threshold to 30.5 eV (405 AA). Experimentally the ratios of the number of dissociated to undissociated photoions H+/H 2+, D+/D 2+ have been determined using a mass spectrometric system essentially free from discrimination against ion species. These ratios are found to rise to plateau values of 0.0208+ or-0.0017 and 0.0082+ or-0.0008 respectively. Over most of the energy range investigated, the photoions are formed solely},
+ author = {Browning, R and Fryar, J},
+ journal = {Journal of Physics B: Atomic and Molecular Physics},
+ number = {2},
+ pages = {364},
+ pub_year = {1973},
+ publisher = {IOP Publishing},
+ title = {Dissociative photoionization of H2 and D2 through the 1s$\sigma$g ionic state},
+ venue = {Journal of Physics B: Atomic and Molecular …},
+ volume = {6}
+}
+
+
+@article{okabe1963vacuum,
+ abstract = {The photolysis of n‐butane has been carried out at room temperature at the Xe resonance lines. A few photolyses have been done at the Kr resonance lines. The isotopic analyses of products—hydrogen, methane, ethane, and ethylene—produced in the photolysis of mixtures of C4H10+ C4D10 and of CH3CD2CD2CH3 were made, in the presence and the absence of 10% NO, to obtain information on the detailed modes of decomposition. From these results, it was concluded that, at the Xe lines:(1) Hydrogen is detached mainly by a},
+ author = {Okabe, H and Becker, DA},
+ journal = {The Journal of Chemical Physics},
+ number = {10},
+ pages = {2549--2555},
+ pub_year = {1963},
+ publisher = {American Institute of Physics},
+ title = {Vacuum Ultraviolet Photochemistry. VII. Photolysis of n-Butane},
+ venue = {The Journal of Chemical Physics},
+ volume = {39}
+}
+
+
+@article{stief1972photochemistry,
+ abstract = {This paper is concerned with a quantitative discussion of the photochemistry and lifetime against photodecomposition of five interstellar molecules: H2CO, NH3, H2O, CH4, and CO. For the first four molecules, primary photochemical decomposition processes yielding atomic and molecular hydrogen are considered in addition to photoionization. The quantum yield for decomposition of these molecules is unity. For CO, only decomposition to ground-state carbon and oxygen atoms occur, but the quantum yield is not known and may be},
+ author = {Stief, LJ and Donn, B and Glicker, S and Gentieu, EP and Mentall, JE},
+ journal = {The Astrophysical Journal},
+ pages = {21},
+ pub_year = {1972},
+ title = {Photochemistry and lifetimes of interstellar molecules},
+ venue = {The Astrophysical …},
+ volume = {171}
+}
+
+
+No Google Scholar results.
+@article{inn1975absorption,
+ abstract = {The results of absoprtion coefficient measurements of HCl in the region 1400 to 2200 Å are reported and compared with those previously published. It is concluded that the present results represent the best compromise of all measurements and should be used for any calculations on the photodissociation rate of HCl in planetary atmospheres.},
+ author = {Inn, Edward CY},
+ journal = {Journal of the Atmospheric Sciences},
+ number = {12},
+ pages = {2375--2377},
+ pub_year = {1975},
+ title = {Absorption Coefficient of HCl in the Region 1400 to 2200 Å},
+ venue = {Journal of the Atmospheric Sciences},
+ volume = {32}
+}
+
+
+No Google Scholar results.
+@article{vaghjiani1993ch3sh,
+ abstract = {The absolute ultraviolet absorption cross sections of methyl mercaptan (CH3SH) have been determined in the wavelength region 192.5–309.5 nm at 296 K. The uv absorbance, A, in a column of slowly flowing standard CH3SH/helium gas mixtures, was monitored in long Pyrex},
+ author = {Vaghjiani, Ghanshyam L},
+ journal = {The Journal of chemical physics},
+ number = {8},
+ pages = {5936--5943},
+ pub_year = {1993},
+ publisher = {American Institute of Physics},
+ title = {CH3SH ultraviolet absorption cross sections in the region 192.5--309.5 nm and photodecomposition at 222 and 193 nm and 296 K},
+ venue = {The Journal of chemical physics},
+ volume = {99}
+}
+
+
+@article{zadeh2019atomic,
+ abstract = {Table 1 shows the variations of ionization energies numerically for each electron and the observed peaks for chlorine. As previously mentioned, moving from one atomic shell to another, one would expect a sudden change in electronic energies, including the ionization energy},
+ author = {Zadeh, Dariush H},
+ journal = {Journal of molecular modeling},
+ number = {8},
+ pages = {1--7},
+ pub_year = {2019},
+ publisher = {Springer},
+ title = {Atomic shells according to ionization energies},
+ venue = {Journal of molecular modeling},
+ volume = {25}
+}
+
+
+@article{page1990completing,
+ abstract = {We have used the fluorescence-dip technique to obtain double-resonance spectra of transition-metal atoms produced in a rf glow-discharge sputtering machine. Rydberg spectra of the neutral elements Ti, V, Fe, Co, and Ni have been analyzed to yield ionization potentials accurate to 1 cm^− 1, completing the table of values for the iron period (K through Zn). The 63 737-cm^− 1 value obtained for Fe agrees with a recently reported result, and new ionization potentials for Ti, V, Co, and Ni are 55 073, 54 413, 63 565 and 61 619 cm},
+ author = {Page, Ralph H and Gudeman, Christopher S},
+ journal = {JOSA B},
+ number = {9},
+ pages = {1761--1771},
+ pub_year = {1990},
+ publisher = {Optical Society of America},
+ title = {Completing the iron period: double-resonance, fluorescence-dip Rydberg spectroscopy and ionization potentials of titanium, vanadium, iron, cobalt, and nickel},
+ venue = {JOSA B},
+ volume = {7}
+}
+
+
+@article{lee1977quantum,
+ abstract = {The quantum yield for the production of O (1D) by photodissociation of O2 was measured in the 1160–1770 Å wavelength region. For wavelengths longer than 1390 Å, the quantum yields are unity and constant, with a sharp cutoff at about 1750 Å. For wavelengths shorter than 1390 Å, the O (1D) quantum yields depend strongly on wavelength. The positions of many of the structures correspond to Rydberg states identified by various authors, and the data show by which of the two principal dissociative channels, O (3P)+ O (3P) or O (1D)+ O},
+ author = {Lee, L Cl and Slanger, TG and Black, G and Sharpless, RL},
+ journal = {The Journal of Chemical Physics},
+ number = {12},
+ pages = {5602--5606},
+ pub_year = {1977},
+ publisher = {American Institute of Physics},
+ title = {Quantum yields for the production of O (1 D) from photodissociation of O2 at 1160--1770 {\AA}},
+ venue = {The Journal of Chemical …},
+ volume = {67}
+}
+
+
+@article{barfield1972fits,
+ abstract = {Analytical approximations to results of new calculations of partial (ie by subshell) photoionization cross sections of elements (2< Z< 30, Z= 36) are presented which cover the photon energy range from near threshold to 300 keV. The computer program developed by Brysk and Zerby, which is based on the single-electron model and uses screened self-consistent field and Dirac-Slater wave function data furnished by Cromer, Waber and Liberman, was used. Sufficient multipoles were included to calculate the partial cross},
+ author = {Barfield, WD and Koontz, GD and Huebner, WF},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {10},
+ pages = {1409--1433},
+ pub_year = {1972},
+ publisher = {Elsevier},
+ title = {Fits to new calculations of photoionization cross sections for low-Z elements},
+ venue = {Journal of Quantitative …},
+ volume = {12}
+}
+
+
+@article{kramida2008additions,
+ abstract = {Using beam-foil spectroscopy, we have observed several new lines in the B IV and BV spectra. This experimental work was combined with theoretical calculations using ab initio and semi-empirical techniques. We have also critically evaluated all previous and recent},
+ author = {Kramida, AE and Ryabtsev, AN and Ekberg, Jan Olof and Kink, Ilmar and Mannervik, Sven and Martinson, Indrek},
+ journal = {Physica Scripta},
+ number = {2},
+ pages = {025302},
+ pub_year = {2008},
+ publisher = {IOP Publishing},
+ title = {Additions to the spectrum and energy levels and a critical compilation of helium-like and hydrogen-like boron, B IV and BV},
+ venue = {Physica …},
+ volume = {78}
+}
+
+
+No Google Scholar results.
+@article{kronebusch1976photodissociative,
+ abstract = {Branching ratios have been measured for the photodissociative ionization of O 2, N 2, CO, NO, CO 2, H 2 O, NH 3 and CH 4 between 16.8 and 40.8 eV, using line sources. Inconsistencies in previous photoionization fragmentation patterns for NO and H 2 O at 21.2 eV, and for CH 4 at 16.8 eV, have been clarified. The high energy state of CO+ has been found to decay predominantly to O++ C, in contrast to a recent study. Partial cross sections for formation of high energy states in O 2+ and CO 2+ deduced from this study are},
+ author = {Kronebusch, PL and Berkowitz, J},
+ journal = {International Journal of Mass Spectrometry and Ion Physics},
+ number = {3-4},
+ pages = {283--306},
+ pub_year = {1976},
+ publisher = {Elsevier},
+ title = {Photodissociative ionization in the 21--41 eV region: O2, N2, CO, NO, CO2, H2O, NH3 and CH4},
+ venue = {… Journal of Mass Spectrometry and Ion …},
+ volume = {22}
+}
+
+
+@article{coon1962franck,
+ abstract = {An approximate method is described for quantitatively applying the Franck-Condon principle to the problem of determining the structure of an excited electronic state of a simple polyatomic molecule. The method is applicable to an electronic transition for which both electronic states have structures of the same symmetry. Necessary information includes the geometrical structure and the totally symmetrical frequencies of the ground state, as well as the vibrational analysis of a vibronic band system and the resulting information about the},
+ author = {Coon, JB and DeWames, RE and Loyd, CM},
+ journal = {Journal of Molecular Spectroscopy},
+ number = {1-6},
+ pages = {285--299},
+ pub_year = {1962},
+ publisher = {Elsevier},
+ title = {The Franck-Condon principle and the structures of excited electronic states of molecules},
+ venue = {Journal of Molecular Spectroscopy},
+ volume = {8}
+}
+
+
+@article{johansson1966spectrum,
+ author = {Johansson, L},
+ journal = {Arkiv for Fysik},
+ number = {3},
+ pages = {201--+},
+ pub_year = {1966},
+ publisher = {ROYAL SWEDISH ACAD SCIENCES BOX 50005, S-104 05 STOCKHOLM, SWEDEN},
+ title = {Spectrum and Term System of Neutral Carbon Atom},
+ venue = {Arkiv for Fysik},
+ volume = {31}
+}
+
+
+@article{koch1971optical,
+ abstract = {The absorption spectra of gaseous n-alkanes have been investigated for photon energies from 8 to 35 eV where excitations of the σ electrons are expected to occur. For methane and ethane the spectra are compared to reflectance measurements on solid films. A new monochromator designed for work with synchrotron radiation and a windowless absorption cell made it possible to resolve considerable new structures.},
+ author = {Koch, Ernst-Eckhard and Skibowski, d M},
+ journal = {Chemical Physics Letters},
+ number = {5},
+ pages = {429--432},
+ pub_year = {1971},
+ publisher = {Elsevier},
+ title = {Optical absorption of gaseous methane, ethane, propane and butane and reflection of solid methane and ethane in the vacuum ultraviolet},
+ venue = {Chemical Physics Letters},
+ volume = {9}
+}
+
+
+No Google Scholar results.
+@article{dixon1968ultra,
+ abstract = {The absorption spectrum of HNCO between 2000 and 2800 Å has been photographed with high resolution and absorption paths of up to 8 m atm. None of the bands are completely sharp, but many show coarse rotational structure. Long progressions of bands are assigned},
+ author = {Dixon, RN and Kirby, GH},
+ journal = {Transactions of the Faraday Society},
+ pages = {2002--2012},
+ pub_year = {1968},
+ publisher = {Royal Society of Chemistry},
+ title = {Ultra-violet absorption spectrum of isocyanic acid},
+ venue = {Transactions of the Faraday Society},
+ volume = {64}
+}
+
+
+@article{demore1983chemical,
+ abstract = {JPL PUBLICATION 83-62 Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling Evaluation Number 6 NASA Panel for Data Evaluation: WB DeMore MJ Molina RT Watson Jet Propulsion Laboratory DM Golden SRI International September 15, 1983 NI\SI  JPL Publication 82-57 (DeMore et al., 1982) The present composition of the Panel and the major responsibilities of each member are listed below: w. B. DeMore, Chairman (Chapman chemistry) DM Golden (three-body reactions) RF Hampson (halogen chemistry) CJ Howard (HOx chemistry, O{1D)},
+ author = {DeMore, WB and Molina, Mario J and Watson, RT and Golden, DM and Hampson, Robert F and Kurylo, Michael J and Howard, Charleton J and Ravishankara, AR},
+ journal = {Evaluation},
+ number = {210},
+ pages = {83--62},
+ pub_year = {1983},
+ title = {Chemical kinetics and photochemical data for use in stratospheric modeling},
+ venue = {Evaluation},
+ volume = {6}
+}
+
+
+@article{mcnesby1964vacuum,
+ abstract = {検索. すべて. 本文あり. 詳細検索. すべて. 本文あり. 閉じる. タイトル. 著者名. 著者ID. 著者所属. 刊行物名. ISSN. 巻号ページ. 出版者. 参考文献. 出版年. 年から 年まで. 検索. 閉じる. 検索. 検索. CiNii窓口業務の再開について. Vacuum Ultraviolet Photochemistry. MCNESBY JR; 被引用文献: 1件. 著者. MCNESBY JR; 収録刊行物. Adv. Photo Chem. Adv. Photo Chem. 3, 157-240, 1964. 被引用文献: 1件中 1-1件 を表示. 1. PCB光分解処理プラントにおける内部照射型装置の有意性 田嶋 直樹 , 浅野 史朗 , 小原 敦. 化学工学論文集 33(4), 332-338, 2007-07-20. 参考文献22件. Tweet;},
+ author = {McNesby, James R},
+ journal = {Adv. Photo Chem.},
+ pages = {157--240},
+ pub_year = {1964},
+ title = {Vacuum ultraviolet photochemistry},
+ venue = {Adv. Photo Chem.},
+ volume = {3}
+}
+
+
+No Google Scholar results.
+@article{yoshino1988improved,
+ abstract = {The laboratory values of the Herzberg continuum absorption cross-section of oxygen at room temperature from Cheung et al.(1986, Planet. Space Sci. 34, 1007), Jenouvrier et al.(1986a, Planet. Space Sci. 34, 253) and Jenouvrier et al.(1986, J. quant. Spectrosc. radiat},
+ author = {Yoshino, K and Cheung, AS-C and Esmond, JR and Parkinson, WH and Freeman, DE and Guberman, SL and Jenouvrier, A and Coquart, B and Merienne, MF},
+ journal = {Planetary and space science},
+ number = {12},
+ pages = {1469--1475},
+ pub_year = {1988},
+ publisher = {Elsevier},
+ title = {Improved absorption cross-sections of oxygen in the wavelength region 205--240 nm of the Herzberg continuum},
+ venue = {… and space science},
+ volume = {36}
+}
+
+
+@article{leach2008vuv,
+ abstract = {The VUV absorption spectrum of acetonitrile between 7 and 20 eV was obtained at high resolution using monochromatised Kr lamp radiation and synchrotron radiation as photon excitation sources. Absorption cross sections were measured over the spectral range studied. We have reinterpreted or assigned for the first time the bands of four valence transitions in the 7–12 eV region, aided by MO calculations of transition energies and oscillator strengths. These assignments also required consideration of vibronic symmetry},
+ author = {Leach, Sydney and Schwell, Martin and Un, Sun and Jochims, Hans-Werner and Baumg{\"a}rtel, Helmut},
+ journal = {Chemical Physics},
+ number = {1-2},
+ pages = {147--163},
+ pub_year = {2008},
+ publisher = {Elsevier},
+ title = {VUV absorption spectroscopy of acetonitrile between 7 and 20 eV: A revisionist study},
+ venue = {Chemical Physics},
+ volume = {344}
+}
+
+
+@techreport{krupenie1966band,
+ abstract = {Click HERE to register or log in. View the full text of this report. Accession Number: ADD095254. Title: The Band Spectrum of Carbon Monoxide,. Descriptive Note: Corporate Author: NATIONAL STANDARD REFERENCE DATA SYSTEM. Personal Author(s): Krupenie, Paul H. Report Date: 1966-07-08. Pagination or Media Count: 100.0. Abstract: This is an exhaustive review of the literature and a critical compilation of the observed and predicted spectroscopic data on CO, CO, and CO2 in the gas phase  Subject Categories: Inorganic Chemistry; Atomic and Molecular Physics and},
+ author = {Krupenie, Paul H},
+ institution = {NATIONAL STANDARD REFERENCE DATA SYSTEM},
+ pub_year = {1966},
+ title = {The band spectrum of carbon monoxide},
+ venue = {NA}
+}
+
+
+No Google Scholar results.
+@article{moore1971natl,
+ author = {Moore, CE},
+ journal = {US Natl Bur Stand, NSRDS-NBS},
+ pub_year = {1971},
+ title = {Natl. Stand. Ref. Data Ser.},
+ venue = {NA},
+ volume = {35}
+}
+
+
+@article{back1967flash,
+ abstract = {The flash photolysis of ethylene has been studied at pressures from 1 to 20 torr and flash energies from 72 to 1800 J, with light of a broad spectral distribution from about 1550 to 1900 Å. The products were acetylene, hydrogen, ethane, propane, butane, methane, 1‐butene, and propylene, in approximately decreasing order of importance. The primary processes are thought to have been C2H4+ hν→ C2H2+ H2 (∼ 51%) and C2H4+ hν→[C2H3*+ H]→ C2H2+ 2H (∼ 49%) in close agreement with the low‐intensity photolysis},
+ author = {Back, RA and Griffiths, DWL},
+ journal = {The Journal of Chemical Physics},
+ number = {12},
+ pages = {4839--4843},
+ pub_year = {1967},
+ publisher = {American Institute of Physics},
+ title = {Flash photolysis of ethylene},
+ venue = {The Journal of Chemical Physics},
+ volume = {46}
+}
+
+
+@article{sohl1990two,
+ abstract = {Two-photon, double-resonance photoionization spectroscopy has been used to study highly excited bound and autoionizing states in Ti (Ti i). Multichannel quantum defect theory has been used to analyze the spectra and to determine the ionization potential of Ti. A new ionization potential of 55 072.5±0.3 cm^− 1 is reported, which differs significantly from the previously accepted value.},
+ author = {Sohl, JE and Zhu, Yang and Knight, RD},
+ journal = {JOSA B},
+ number = {1},
+ pages = {9--14},
+ pub_year = {1990},
+ publisher = {Optical Society of America},
+ title = {Two-color laser photoionization spectroscopy of Ti i: multichannel quantum defect theory analysis and a new ionization potential},
+ venue = {JOSA B},
+ volume = {7}
+}
+
+
+@article{henry1968photoelectrons,
+ abstract = {NASA/ADS. Photoelectrons in Planetary Atmospheres  Abstract. Publication: The Atmospheres of Venus and Mars. Pub Date: 1968 Bibcode: 1968avm..book..251H. No Sources Found. © The SAO/NASA Astrophysics Data System adshelp[at]cfa.harvard.edu. The ADS is operated by the Smithsonian Astrophysical Observatory under NASA Cooperative Agreement NNX16AC86A},
+ author = {Henry, Ronald JW and McElroy, Michael B},
+ journal = {The Atmospheres of Venus and Mars},
+ pages = {251},
+ pub_year = {1968},
+ title = {Photoelectrons in planetary atmospheres},
+ venue = {… Atmospheres of Venus and Mars}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@article{lombos1967electronic,
+ abstract = {The far ultraviolet absorption spectra of the eight first normal paraffin hydrocarbons were measured down to 1150 angstroms with a MePherson model 225 normal incidence vacuum monochromator completed with a model 665 double beam attachment under approximately 0.2 Å resolution. Methane has a diffuse but not entirely structureless band system with a maximum at 1277 Å. According to its intensity it should be relating to an allowed transition and must therefore be of the 1 F 2← 1 A 1 type. The other seven molecules all seem to have},
+ author = {Lombos, BA and Sauvageau, P and Sandorfy, C},
+ journal = {Journal of Molecular Spectroscopy},
+ number = {1-4},
+ pages = {253--269},
+ pub_year = {1967},
+ publisher = {Elsevier},
+ title = {The electronic spectra of n-alkanes},
+ venue = {Journal of Molecular Spectroscopy},
+ volume = {24}
+}
+
+
+No Google Scholar results.
+@article{mcnesby1962vacuum,
+ abstract = {Water and ammonia have each been photolyzed in the absence and presence of C2D4 which served to scavenge H atoms. Wavelengths used were: for ammonia, 1849 and 1236 A; for water, 1236 A. Under conditions where H atoms are efficiently scavenged by C2D4},
+ author = {McNesby, JR and Tanaka, Ikuzo and Okabe, H},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {605--607},
+ pub_year = {1962},
+ publisher = {American Institute of Physics},
+ title = {Vacuum ultraviolet photochemistry. III. Primary processes in the vacuum ultraviolet photolysis of water and ammonia},
+ venue = {The Journal of Chemical Physics},
+ volume = {36}
+}
+
+
+@article{brandi2001vacuum,
+ abstract = {High-resolution spectroscopy of xenon is performed on four transitions from the 5 p 6 1 S 0 ground state to the 5 d′[3/2] 1, 8 d [1/2] 1, 8 d [3/2] 1, and 7 s′[1/2] 1 excited states (j l-coupling notation) by means of 1 VUV+ 1 UV photoionization spectroscopy. Spectra of all nine stable isotopes are resolved enabling the determination of the hyperfine splittings and isotope shifts. Magnetic dipole (for both 129 Xe and 131 Xe) and electric quadrupole (for 131 Xe) hyperfine splitting constants are derived for all four excited states. Mass and field},
+ author = {Brandi, F and Velchev, I and Hogervorst, W and Ubachs, W},
+ journal = {Physical Review A},
+ number = {3},
+ pages = {032505},
+ pub_year = {2001},
+ publisher = {APS},
+ title = {Vacuum-ultraviolet spectroscopy of Xe: Hyperfine splittings, isotope shifts, and isotope-dependent ionization energies},
+ venue = {Physical Review A},
+ volume = {64}
+}
+
+
+@article{sugar1985j,
+ author = {Sugar, J and Corliss, C},
+ journal = {Suppl.},
+ pages = {498},
+ pub_year = {1985},
+ title = {J. Phys. Chem. Ref. Data 14},
+ venue = {NA},
+ volume = {2}
+}
+
+
+@article{okabe1983photochemistry,
+ abstract = {The photochemistry of acetylene at 1849 Å has been studied over the pressure range from 13 to 2660 N m− 2 (0.1–20 Torr). The quantum yield of diacetylene formation has been measured as a function of C2H2 pressure and the partial pressures of He and N2. The quantum yield of H2 formation has also been obtained. It was concluded that the quantum yield for C2H2→ hνC2H+ H is 0.06 and that for C2H2→ hνC2+ H2 is 0.1. The remaining process is the formation of a metastable acetylene which reacts either with C2H2 to form},
+ author = {Okabe, Hideo},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {1312--1317},
+ pub_year = {1983},
+ publisher = {American Institute of Physics},
+ title = {Photochemistry of acetylene at 1849 {\AA}},
+ venue = {The Journal of Chemical Physics},
+ volume = {78}
+}
+
+
+@article{nakayama1959ionization,
+ abstract = {Absorption coefficients of NO2 were measured at a number of wavelengths in the spectral region 1080–2700 A with a resolution of 0.2 A by a photoelectric method. Several bands observed in the region 1080–1200 A fitted a Rydberg series, and its convergence limit at 11.62 ev was interpreted as the second ionization potential of NO2. The first ionization potential was found to be 9.78 ev by the photoionization method. The ionization continuum showed a break at 10.83 ev which may be due to a probable dissociative‐ionization},
+ author = {Nakayama, Toshio and Kitamura, Morris Y and Watanabe, K},
+ journal = {The Journal of Chemical Physics},
+ number = {5},
+ pages = {1180--1186},
+ pub_year = {1959},
+ publisher = {American Institute of Physics},
+ title = {Ionization potential and absorption coefficients of nitrogen dioxide},
+ venue = {The Journal of Chemical …},
+ volume = {30}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+@article{rustgi1964absorption,
+ abstract = {Absorption cross sections of argon and methane have been determined in their respective ionization continua, with particular emphasis on the short-wavelength range from 600 to 170 Å. A line emission spectrum from a high-voltage condensed spark discharge in nitrogen was used as a light source, and a maximum value of the cross section for argon beyond the P2_12^ 0 edge was measured to be 36.0× 10^− 18 cm^ 2. The oscillator strength for the transition into the continuum has been obtained by integrating the experimental curve of},
+ author = {Rustgi, OM Prakash},
+ journal = {JOSA},
+ number = {4},
+ pages = {464--466},
+ pub_year = {1964},
+ publisher = {Optical Society of America},
+ title = {Absorption cross sections of argon and methane between 600 and 170 {\AA}},
+ venue = {JOSA},
+ volume = {54}
+}
+
+
+@misc{kelly1987unpublished,
+ author = {Kelly, RL},
+ pub_year = {1987},
+ publisher = {Suppl},
+ title = {unpublished level list prepared for line classifications published in J. Phys. Chem. Ref. Data 16},
+ venue = {NA}
+}
+
+
+@article{stockwell1978near,
+ abstract = {New measurements of the absorption cross sections for N 2 O 3 and HONO vapors have been made for the 300–400 nm wavelength range. The N 2 O 3 data were derived from the observed spectra of equilibrium mixtures of N 2 O 3 with NO, NO 2 and N 2 O 4. HONO data were derived from its equilibrium mixtures with NO, NO 2, H 2 O, N 2 O 3 and N 2 O 4. Correction for the absorptions of NO 2 and N 2 O 4 in the first mixtures and NO 2, N 2 O 4 and N 2 O 3 in the second mixtures were made using the measured initial compositions},
+ author = {Stockwell, William R and Calvert, Jack G},
+ journal = {Journal of Photochemistry},
+ number = {2},
+ pages = {193--203},
+ pub_year = {1978},
+ publisher = {Elsevier},
+ title = {The near ultraviolet absorption spectrum of gaseous HONO and N2O3},
+ venue = {Journal of Photochemistry},
+ volume = {8}
+}
+
+
+@article{huebner1992solar,
+ abstract = {NASA Conf. NASA SP-308, pp  Soc. Am. 54, 968.ADSCrossRefGoogle Scholar. Cook, GR, Metzger, PH, and Ogawa, M.: 1965, Can. J. Phys  Spectr. Rad. Transfer 30, 385.ADSCrossRefGoogle Scholar. Golomb, D., Watanabe, K., and Marmo, FF: 1962, J. Chem. Phys},
+ author = {Huebner, Walter F and Keady, John Joseph and Lyon, SP},
+ journal = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ pages = {1--289},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ venue = {Solar photo rates for planetary …}
+}
+
+
+@article{moule1971analysis,
+ abstract = {The near‐ultraviolet absorption of phosgene has been assigned to a π*← n, 1A2← 1A1, electronic transition from vapor‐phase spectra recorded under conditions of high resolution and low temperature. Progressions in ν1′, ν2′, ν3′, ν4′, and ν4 ″have been identified in the spectrum and have been analyzed in terms of vibronic transitions between a planar ground and a nonplanar excited state. A barrier height of 3170 cm− 1 and a nonplanar equilibrium angle of 32.5° were calculated for the upper state from a fit of the energy levels},
+ author = {Moule, DC and Foo, PD},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {1262--1268},
+ pub_year = {1971},
+ publisher = {American Institute of Physics},
+ title = {Analysis of the 2973-{\AA} Absorption System of Phosgene},
+ venue = {The Journal of Chemical Physics},
+ volume = {55}
+}
+
+
+@article{watanabe1962ionization,
+ abstract = {This report summarizes the measurements of molecular ionization potential by a photoionization method utilizing a 1 m vacuum monochromator in the photon energy range from7–15 eV. The adiabatic ionization potentials of about three hundred molecules determined by the present method are assembled in thirteen tables, which include estimates of experimental uncertainties. In nearly all cases (about forty) where comparisons can be made, the present results agree closely with the spectroscopic values. The identity of the},
+ author = {Watanabe, K and Nakayama, Toshio and Mottl, Joseph},
+ journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+ number = {4},
+ pages = {369--382},
+ pub_year = {1962},
+ publisher = {Elsevier},
+ title = {Ionization potentials of some molecules},
+ venue = {Journal of Quantitative Spectroscopy …},
+ volume = {2}
+}
+
+
+No Google Scholar results.
+@article{schwell2008vuv,
+ abstract = {Photoionization mass spectrometry is used to study ionization processes and fragmentation pathways of four prebiotic species, pyrimidine, purine, imidazole and benzimidazole, in the 7–18 eV photon energy region, with synchrotron radiation as excitation source. These},
+ author = {Schwell, Martin and Jochims, Hans-Werner and Baumg{\"a}rtel, Helmut and Leach, Sydney},
+ journal = {Chemical Physics},
+ number = {1-3},
+ pages = {145--162},
+ pub_year = {2008},
+ publisher = {Elsevier},
+ title = {VUV photophysics and dissociative photoionization of pyrimidine, purine, imidazole and benzimidazole in the 7--18 eV photon energy range},
+ venue = {Chemical Physics},
+ volume = {353}
+}
+
+
+@incollection{ackerman1971ultraviolet,
+ abstract = {The atmospheric layer of strong negative temperature gradient called the mesosphere and located at altitudes between roughly 50 and 85 km is still part of the homosphere since the mean molecular mass is there maintained constant at all altitudes by the mixing of the major constituents. However, the chemical reactions are very efficient in this region and strongly affect the concentration of minor constituents. These processes are of course not strictly limited in altitude and continue to play a role in the neighbouring atmospheric regions},
+ author = {Ackerman, Marcel},
+ booktitle = {Mesospheric models and related experiments},
+ pages = {149--159},
+ pub_year = {1971},
+ publisher = {Springer},
+ title = {Ultraviolet solar radiation related to mesospheric processes},
+ venue = {Mesospheric models and related experiments}
+}
+
+
+No Google Scholar results.
+@article{verner1993subshell,
+ abstract = {Partial photoionization cross sections of atoms and ions from He to Zn for all subshells nl of ground-state species are calculated with the Hartree-Dirac-Slater method for photon energies E⪝ 100E th, where E th is the photoionization threshold. The cross sections are fitted by simple analytic expressions for E⪝ 50 keV, and the ionization energies are fitted by simple polynomials of atomic number Z and number of atomic electrons N. The fit parameters are tabulated.},
+ author = {Verner, DA and Yakovlev, DG and Band, IM and Trzhaskovskaya, MB},
+ journal = {Atomic Data and Nuclear Data Tables},
+ number = {2},
+ pages = {233--280},
+ pub_year = {1993},
+ publisher = {Elsevier},
+ title = {Subshell photoionization cross sections and ionization energies of atoms and ions from He to Zn},
+ venue = {… Nuclear Data Tables},
+ volume = {55}
+}
+
+
+@article{huffman1969absorption,
+ abstract = {The current status of absorption cross-section measurements for aeronomic use is reviewed. Recommended values for the gases O2, N2, O, and O3 are given at wavelengths where there is strong atmospheric absorption in the 3500–10 Å region. A table of absorption and ionization cross-sections at important solar emission lines is given. The problem of insufficient resolution at some wavelengths is discussed, and information on photolysis products is given where available.},
+ author = {Huffman, Robert E},
+ journal = {Canadian Journal of Chemistry},
+ number = {10},
+ pages = {1823--1834},
+ pub_year = {1969},
+ publisher = {NRC Research Press Ottawa, Canada},
+ title = {Absorption cross-sections of atmospheric gases for use in aeronomy},
+ venue = {Canadian Journal of Chemistry},
+ volume = {47}
+}
+
+
+@article{sugar1995energy,
+ abstract = {Atomic energy levels of zinc have been compiled for all stages of ionization for which experimental data are available. No data have yet been published for Zn IX, Zn X, Zn XXVI, and Zn XXVIII, and only several resonance lines of Zn XXIX and Zn XXX. Very accurate calculated values are compiled for Zn XXIX and Zn XXX. Experimental g‐factors and leading percentages from calculated eigenvectors are given. A value for the ionization energy, either experimental when available or theoretical, is included for the neutral atom and each ion. A},
+ author = {Sugar, Jack and Musgrove, Arlene},
+ journal = {Journal of Physical and Chemical Reference Data},
+ number = {6},
+ pages = {1803--1872},
+ pub_year = {1995},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Energy levels of zinc, Zn I through Zn XXX},
+ venue = {… of Physical and Chemical Reference Data},
+ volume = {24}
+}
+
+
+@article{watanabe1953absorption,
+ abstract = {Absorption coefficients of water vapor in the region 1060–1860A were obtained by a photoelectric method described previously. Pressures (0.08 to 8 mm Hg) of water vapor in the absorption cell were measured with an Alphatron gauge. In the region 1860–1500A, the absorption coefficients were between the values reported by two groups of investigators. Oscillator strengths of two continua, 1150–1430A and 1430–1860A, were found to be 0.05 and 0.041, respectively. At Lyman alpha the absorption coefficient was 387 cm^− 1. Twelve},
+ author = {Watanabe, K and Zelikoff, Murray},
+ journal = {JOSA},
+ number = {9},
+ pages = {753--755},
+ pub_year = {1953},
+ publisher = {Optical Society of America},
+ title = {Absorption coefficients of water vapor in the vacuum ultraviolet},
+ venue = {JOSA},
+ volume = {43}
+}
+
+
+@article{kaufman1991wavelengths,
+ abstract = {Wavelengths and their classifications are compiled for the spectra of magnesium. Selections of data are based on the critical evaluations in the compilation of energy levels by Martin and Zalubas [1980, J. Phys. Chem. Ref. Data 9, 1–58], with some updating from the more recent literature. All classifications have been verified with predictions made by differencing the energy levels. In addition to the spectra ordered by ionization state, two finding lists are included, one containing Mg I to Mg III and the other Mg IV to Mg XII.},
+ author = {Kaufman, Victor and Martin, William C},
+ journal = {Journal of physical and chemical reference data},
+ number = {1},
+ pages = {83--152},
+ pub_year = {1991},
+ publisher = {American Institute of Physics for the National Institute of Standards and~…},
+ title = {Wavelengths and energy level classifications of magnesium spectra for all stages of ionization (Mg I through Mg XII)},
+ venue = {… of physical and chemical reference data},
+ volume = {20}
+}
+
+
+@article{adelman1996bibliography,
+ abstract = {Scripta, 38, 336 [EA, 125-2316] V π Iglesias, L., Cabeza, M. L, and de Luis, B. 1988, Pub  Tb ι Childs, WJ 1992, JOSA B, 9, 191 [CL, 5439-5443] W m Iglesias, L., Cabeza, MI, Rico, FR  563-850] Wyart, J.-F., Joshi, YN, Raassen, AJJ, Uylings, PHM, and Tchang-Brillet, L. 1994, Phys},
+ author = {Adelman, Saul J},
+ journal = {Publications of the Astronomical Society of the Pacific},
+ pages = {633--636},
+ pub_year = {1996},
+ publisher = {JSTOR},
+ title = {Bibliography of Atomic Line Identification Lists. V. June 1995 Supplement},
+ venue = {Publications of the Astronomical Society of the Pacific}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@article{graham1978photochemistry,
+ abstract = {NO+ 02+ N02, e=(2.5 ą 0.5) X 10'14 exp [-(1230 ą 100)/T]; NO+ NOa— 2 N02,/=(1.9 ą 0.4) X 10'11 at 297 K. At 1 atm total pressure, the photolysis of N03 occurs with a primary quantum yield less than one in thered region of the spectrum. Under tropospheric conditions with an},
+ author = {Graham, Richard A and Johnston, Harold S},
+ journal = {The Journal of Physical Chemistry},
+ number = {3},
+ pages = {254--268},
+ pub_year = {1978},
+ publisher = {ACS Publications},
+ title = {The photochemistry of the nitrate radical and the kinetics of the nitrogen pentoxide-ozone system},
+ venue = {The Journal of Physical Chemistry},
+ volume = {82}
+}
+
+
+No Google Scholar results.
+@article{zelikoff1953absorption,
+ abstract = {Absorption coefficients of N2O in the region 1080–2100A have been measured. Four continua were observed with maxima at 1820, 1450, 1285, and 1080A having f values of 0.0015, 0.0211, 0.367, and 0.1, respectively. The strongest absorption band in the ultraviolet lies at 1178A with an absorption coefficient of 3010 cm− 1 at its maximum. A number of new bands were observed, and some of them classified. Some of the continua have been interpreted in terms of possible dissociation processes, and a potential energy diagram is},
+ author = {Zelikoff, Murray and Watanabe, K and Inn, Edward CY},
+ journal = {The Journal of Chemical Physics},
+ number = {10},
+ pages = {1643--1647},
+ pub_year = {1953},
+ publisher = {American Institute of Physics},
+ title = {Absorption coefficients of gases in the vacuum ultraviolet. Part II. Nitrous oxide},
+ venue = {The Journal of Chemical Physics},
+ volume = {21}
+}
+
+
+@article{jardine1973reactions,
+ abstract = {Hydrogen atoms of initial kinetic energy E 0= 1.15 or 2.1 eV were produced photolytically and their reactions with HCl were studied at 300° K using bromine as a scavenger. The fraction, FH, undergoing reaction 2 while hot was found to be 0.79±0.02 and 0.55±0.02 for E 0= 2.1 and 1.15 eV, respectively. For 2.1 eV atoms a similar result was obtained at 200° K with chlorine as scavenger. On the addition of carbon dioxide as a moderator FH decreased in a manner consistent with the kinetic theory of hot atom reactions. Comparison of the},
+ author = {Jardine, DK and Ballash, NM and Armstrong, DA},
+ journal = {Canadian Journal of Chemistry},
+ number = {5},
+ pages = {656--666},
+ pub_year = {1973},
+ publisher = {NRC Research Press Ottawa, Canada},
+ title = {Reactions of hot hydrogen atoms in gaseous hydrogen chloride and hydrogen bromide},
+ venue = {Canadian Journal of …},
+ volume = {51}
+}
+
+
+@article{myer1970vacuum,
+ abstract = {Absorption cross sections have been measured under intermediate resolution (0.25 Å) for CO, HCl, and ICN in the spectral region from 1050 to 2100 Å. An attempt has been made to analyze the spectra in terms of the reactions responsible for the observed features. A Rydberg series has been identified in the absorption spectrum of ICN with a series limit of 1140.6±0.1 Å.},
+ author = {Myer, James A and Samson, James AR},
+ journal = {The Journal of Chemical Physics},
+ number = {1},
+ pages = {266--271},
+ pub_year = {1970},
+ publisher = {American Institute of Physics},
+ title = {Vacuum-Ultraviolet Absorption Cross Sections of CO, HCl, and ICN between 1050 and 2100 {\AA}},
+ venue = {The Journal of Chemical Physics},
+ volume = {52}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@article{verner1995analytic,
+ abstract = {Astrophys. Suppi. Ser. 109, 125-133 (1995) Analytic fits for partial photoionization cross sections* DA Verner1 ~ and DG Yakovlev2 1 Kapteyn Astronomical Institute, PO Box 800, 9700 AV Groningen, The Netherlands 2 loffe Institute of Physics and Technology, St. Petersburg 194021, Russia Received June 3; accepted August 10, 1994 Abstract. - We present a compact, uniform and complete set of analytic fits to the partial Hartree-Dirac-Slater photoionization cross sections for the ground state shells of all atoms and ions of elements from H to Zn (Z <30)  Soc. Am. 57},
+ author = {Verner, DA and Yakovlev, DG},
+ journal = {Astronomy and Astrophysics supplement series},
+ pages = {125--133},
+ pub_year = {1995},
+ title = {Analytic FITS for partial photoionization cross sections.},
+ venue = {Astronomy and Astrophysics …},
+ volume = {109}
+}
+
+
+@article{verner1996atomic,
+ abstract = {We present a complete set of analytic fits to the non-relativistic photoionization cross sections for the ground states of atoms and ions of elements from H through Si, and S, Ar, Ca, and Fe. Near the ionization thresholds, the fits are based on the Opacity Project theoretical cross sections interpolated and smoothed over resonances. At higher energies, the fits reproduce calculated Hartree-Dirac-Slater photoionization cross sections.},
+ author = {Verner, DA and Ferland, Gary J and Korista, KT and Yakovlev, DG},
+ journal = {arXiv preprint astro-ph/9601009},
+ pub_year = {1996},
+ title = {Atomic data for astrophysics. II. New analytic fits for photoionization cross sections of atoms and ions},
+ venue = {arXiv preprint astro-ph …}
+}
+
+
+No Google Scholar results.
+@article{guyon1976photoionization,
+ abstract = {Photoionization efficiency curves for H2CO+, HDCO+, D2CO+ and HCO+, DCO+ and CO+ fragment ions are obtained. The ionization potentials of H2CO, HDCO, and D2CO thus determined are, respectively, 10.868, 10.879, and 10.882 eV. The appearance potential of},
+ author = {Guyon, Paul Marie and Chupka, William A and Berkowitz, Joseph},
+ journal = {The Journal of Chemical Physics},
+ number = {4},
+ pages = {1419--1436},
+ pub_year = {1976},
+ publisher = {American Institute of Physics},
+ title = {Photoionization mass spectrometric study of formaldehyde H2CO, HDCO and D2CO},
+ venue = {… Journal of Chemical Physics},
+ volume = {64}
+}
+
+
+No Google Scholar results.
+@article{griggs1968absorption,
+ abstract = {INTRODUCTION It has been verified in recent years by Hearn! and by DeMore and Raper,2  that the ozone absorption coefli- cients in the ultraviolet detennined by Inn and Tanaka3 are  preferred to the measurements of Vigroux.4 The agreement among authors is not perfect, although  in general the results agree within experimental error. However, the disagreement between the  results of Vigroux and Inn and Tanaka in the visible region seems to have been neglected. The  present work determined the absorption coefficients in both the visible and ultra- violet},
+ author = {Griggs, M},
+ journal = {The Journal of Chemical Physics},
+ number = {2},
+ pages = {857--859},
+ pub_year = {1968},
+ publisher = {American Institute of Physics},
+ title = {Absorption coefficients of ozone in the ultraviolet and visible regions},
+ venue = {The Journal of Chemical Physics},
+ volume = {49}
+}
+
+
+No Google Scholar results.
+@article{huffman1963absorption,
+ abstract = {Absorption coefficients of molecular nitrogen have been measured with a photoelectric scanning technique using an intense, stabilized Hopfield helium‐continuum light source as background. These measurements differ from previous investigations where line sources were used as background. The measurements have been done with an instrumental bandwidth of 0.5 Å over a pressure range of 0.040 to 0.17 mm Hg using an absorption cell placed behind the exit slit of a vacuum monochromator. Corrections were made for the},
+ author = {Huffman, RE and Tanaka, Y and Larrabee, JC},
+ journal = {The Journal of Chemical Physics},
+ number = {4},
+ pages = {910--925},
+ pub_year = {1963},
+ publisher = {American Institute of Physics},
+ title = {Absorption coefficients of nitrogen in the 1000--580 {\AA} wavelength region},
+ venue = {The Journal of Chemical …},
+ volume = {39}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@book{okabe1978photochemistry,
+ abstract = {Photochemistry is a subject with wide-ranging applications. Because of this, many books have been written that undertake to give comprehensive coverage of the subject. Most of these books concentrate on the photochemistry of relatively large molecules, about which a great deal of information is available to us. However, there are at least two good reasons for the investigation of the photochemistry of small molecules. In the first place, the connection between spectroscopy-absorption of light by moleculesand subsequent energy transfer},
+ author = {Okabe, Hideo and others},
+ pub_year = {1978},
+ publisher = {Wiley New York},
+ title = {Photochemistry of small molecules},
+ venue = {NA},
+ volume = {431}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@article{mcnesby1962vacuum,
+ abstract = {Water and ammonia have each been photolyzed in the absence and presence of C2D4 which served to scavenge H atoms. Wavelengths used were: for ammonia, 1849 and 1236 A; for water, 1236 A. Under conditions where H atoms are efficiently scavenged by C2D4, the production of H2 signifies a primary photochemical process giving molecular H2 directly. It is found that at 1849 A, ammonia decomposes almost entirely to H+ NH2. At 1236 A, two primary processes are observed.(a) NH3→ H2+ NH,(b) NH3→ H+ NH2. Process (a) is about},
+ author = {McNesby, JR and Tanaka, Ikuzo and Okabe, H},
+ journal = {The Journal of Chemical Physics},
+ number = {3},
+ pages = {605--607},
+ pub_year = {1962},
+ publisher = {American Institute of Physics},
+ title = {Vacuum ultraviolet photochemistry. III. Primary processes in the vacuum ultraviolet photolysis of water and ammonia},
+ venue = {The Journal of Chemical Physics},
+ volume = {36}
+}
+
+
+@article{cook1964photoionization,
+ abstract = {Absolute photoionization and absorption cross sections of O2 and N2 have been measured in the 600‐to 1000‐Å region using a 1‐m Seya—Namioka scanning vacuum ultraviolet monochromator with a resolution of 0.5 Å in the first order and the Hopfield continuum background light source. A path length of 40.6 cm was used with simultaneous detection of ion current and photon flux. The absolute photon flux was determined by calibrating the ion chamber with the rare gases Ar, Kr, and Xe. In O2, the spectrum at longer wavelengths},
+ author = {Cook, GR and Metzger, PH},
+ journal = {The Journal of Chemical Physics},
+ number = {2},
+ pages = {321--336},
+ pub_year = {1964},
+ publisher = {American Institute of Physics},
+ title = {Photoionization and Absorption Cross Sections of O2 and N2 in the 600-to 1000-{\AA} Region},
+ venue = {The Journal of Chemical Physics},
+ volume = {41}
+}
+
+
+@article{kley1965investigation,
+ author = {Kley, D and Welge, KH},
+ journal = {Z. Naturforsch. A},
+ pages = {124--131},
+ pub_year = {1965},
+ title = {Investigation of the photodissociation of PH3 in ultraviolet-quartz light by absorption-spectroscopic flash photolysis},
+ venue = {NA},
+ volume = {20}
+}
+
+
+@article{huebner1992solar,
+ abstract = {25, 415.ADSGoogle Scholar. Bethe, HA and Salpeter, EE: 1957, Quantum Mechanics of One  Scholar. Gibson, ST, Gies, HPF, Blake, AJ, McCoy, DG, and Rogers, PJ: 1983, J. Quant  48, 245.ADSCrossRefGoogle Scholar. Guyon, PM, Chupka, WA, and Berkowitz, J.: 1976, J. Chem},
+ author = {Huebner, Walter F and Keady, John Joseph and Lyon, SP},
+ journal = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ pages = {1--289},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ venue = {Solar photo rates for planetary …}
+}
+
+
+@article{huebner1992solar,
+ abstract = {Beutler, H. and Jünger, H.-O.: 1936, Z. Phys  70, 99.ADSCrossRefGoogle Scholar. Calvert, JG and Pitts, JN, Jr.: 1966, Photochemistry, John Wiley and Sons, New York.Google Scholar  J. 168, 169.ADSCrossRefGoogle Scholar. Clark, JH, Moore, CB, and Nogar, NS: 1978, J. Chem},
+ author = {Huebner, Walter F and Keady, John Joseph and Lyon, SP},
+ journal = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ pages = {1--289},
+ pub_year = {1992},
+ publisher = {Springer},
+ title = {Solar photo rates for planetary atmospheres and atmospheric pollutants},
+ venue = {Solar photo rates for planetary …}
+}
+
+
+@article{watanabe1954photoionization,
+ abstract = {Ionization potentials determined by examining the long wavelength limit of the ionization continuum for H2S, CS2, C6H6, toluene, p‐xylene, C2H4, butadiene, and CH3I agreed with spectroscopic values obtained by Price and co‐workers. Values are reported also for NH3, NO, acetone, methyl‐ethyl‐ketone, CH3OH, and C2H5OH. Improved energy measurements showed that photoionization cross sections of NO in the region 1070—1340A obtained earlier were about 40 percent too low. At 1215.6 A the photoionization and the total cross},
+ author = {Watanabe, Ko},
+ journal = {The Journal of Chemical Physics},
+ number = {9},
+ pages = {1564--1570},
+ pub_year = {1954},
+ publisher = {American Institute of Physics},
+ title = {Photoionization and total absorption cross section of gases. I. Ionization potentials of several molecules. Cross sections of NH3 and NO},
+ venue = {The Journal of Chemical Physics},
+ volume = {22}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+@article{salahub1971far,
+ abstract = {The vacuum ultraviolet spectra from 2000 to 1200Å of methanol, ethanol, n-propanol, iso-propanol and some of their fluorinated derivatives were measured in the gas phase. The spectra are discussed in terms of INDO and, when possible, RCNDO calculations including configuration interaction. The lowest frequency band turns out to be of the σ*-n type. It is followed by two Rydberg transitions, probably overlapping valence-shell transitions.},
+ author = {Salahub, DR and Sandorfy, C},
+ journal = {Chemical Physics Letters},
+ number = {1},
+ pages = {71--74},
+ pub_year = {1971},
+ publisher = {Elsevier},
+ title = {The far-ultraviolet spectra of some simple alcohols and fluoroalcohols},
+ venue = {Chemical Physics Letters},
+ volume = {8}
+}
+
+
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.
+No Google Scholar results.

@@ -1,0 +1,70 @@
+0          References for Cross Section of CH3CCl3   ..Cl2/Cl
+Cross section:                                                                  
+Lambda = 0.61-625.80 A                                                          
+   Synthesuzed from cross sections of atomic constituents 2*C + 3*H + 3*Cl      
+   Barfield, W. D., Koontz, G. D., Huebner W. F. (1972)                         
+   J. Quant. Spectr. Rad. Trans. 12, 1409                                       
+Lambda = 1820.00-2400.00 A                                                      
+   Vanlaethem-Meuree, N., Wisemberg, J., Simon, P. C. (1979)                    
+   Geophys. Res. Lett. 6, 451.                                                  
+Lambda =  1600.00-1800.00 A                                                     
+   Hubrich, C., Stuhl, F. (1980)                                                
+   J. Photochem. 12, 93                                                         
+Lambda = 2450.00-2550.00 A                                                      
+   Hubrich, C., Stuhl, F. (1980)                                                
+   J. Photochem. 12, 93                                                         
+   Data have been divided by 2 to match data at 2400.00 A.                      
+   See DeMore, W. B., Watson, R. T.,Golden, D. M., Hampson, R. E., Kurylo, M., H
+   NASA-CR-169262.                                                              
+                                                                                
+0 Branching ratio for CH3CCl3  ..Cl2/Cl     0 branches
+  Lambda  ..Cl2/Cl
+    0.61  1.22E-21
+    1.12  1.01E-20
+    2.44  6.73E-20
+    6.15  8.63E-20
+   12.57  6.01E-19
+   24.62  3.34E-18
+   62.09  1.27E-18
+  121.70  3.82E-18
+  248.60  7.12E-18
+  625.80  1.25E-16
+  650.00  1.00E-18
+ 1600.00  4.20E-18
+ 1650.00  4.10E-18
+ 1700.00  3.75E-18
+ 1750.00  3.90E-18
+ 1800.00  3.75E-18
+ 1820.00  3.15E-18
+ 1840.00  2.80E-18
+ 1860.00  2.50E-18
+ 1880.00  2.20E-18
+ 1900.00  1.92E-18
+ 1920.00  1.64E-18
+ 1940.00  1.40E-18
+ 1960.00  1.18E-18
+ 1980.00  9.90E-19
+ 2000.00  8.10E-19
+ 2020.00  6.58E-19
+ 2040.00  5.20E-19
+ 2060.00  4.00E-19
+ 2080.00  3.08E-19
+ 2100.00  2.40E-19
+ 2120.00  1.68E-19
+ 2140.00  1.20E-19
+ 2160.00  8.60E-20
+ 2180.00  6.00E-20
+ 2200.00  4.15E-20
+ 2220.00  2.95E-20
+ 2240.00  2.05E-20
+ 2260.00  1.48E-20
+ 2280.00  1.02E-20
+ 2300.00  7.00E-21
+ 2320.00  4.90E-21
+ 2340.00  3.35E-21
+ 2360.00  2.30E-21
+ 2380.00  1.53E-21
+ 2400.00  1.02E-21
+ 2450.00  4.40E-22
+ 2500.00  2.00E-22
+ 2550.00  8.00E-23

@@ -1,0 +1,47 @@
+0          References for Cross Section of F2        F/F     
+Cross section:                                                                  
+Lambda = 0.61-653.60 A                                                          
+   Barfield, W. D., Koontz, G. D., Huebner, W. F. (1972)                        
+   J. Quant. Spectr. Rad. Trans. 12, 1409                                       
+   From atomic cross section of F                                               
+Lambda = 2100.-3700. A                                                          
+   Okabe, H. (1978)                                                             
+   Photochemistry of Small Molecules, Wiley-Interscience Pub., New York         
+                                                                                
+0 Branching ratio for F2       F/F          0 branches
+  Lambda  F/F     
+    0.61  5.07E-23
+    1.24  4.85E-22
+    2.44  3.78E-21
+    6.15  5.51E-20
+   12.57  3.84E-19
+   16.87  7.95E-19
+   17.59  9.62E-19
+   18.35  5.42E-20
+   24.62  1.17E-19
+   62.09  1.16E-18
+  121.70  5.14E-18
+  248.60  1.41E-17
+  552.50  2.49E-17
+  576.10  2.49E-17
+  601.00  2.46E-17
+  625.80  2.41E-17
+  653.60  2.33E-17
+ 2100.00  4.20E-21
+ 2200.00  6.11E-21
+ 2300.00  8.02E-21
+ 2400.00  1.03E-20
+ 2500.00  1.30E-20
+ 2600.00  1.60E-20
+ 2700.00  2.02E-20
+ 2800.00  2.22E-20
+ 2900.00  2.25E-20
+ 3000.00  2.22E-20
+ 3100.00  1.99E-20
+ 3200.00  1.57E-20
+ 3300.00  1.34E-20
+ 3400.00  1.07E-20
+ 3500.00  8.02E-21
+ 3600.00  6.11E-21
+ 3700.00  3.44E-21
+ 7950.00  1.00E-24
