@@ -286,6 +286,7 @@ class MPI_Mainz():
             file = self.folder+species+'/'+species+'_alinc.dat'
             fil = open(file,'r')
             lines = fil.readlines()
+            fil.close()
             for line in lines[8:]:
                 wv_alin.append(.1*float(line.split()[0]))
                 xs_alin.append(float(line.split()[1]))
@@ -298,6 +299,7 @@ class MPI_Mainz():
             file = self.folder+species+'/'+species+'_mpi.abs'
             fil = open(file,'r')
             lines = fil.readlines()
+            fil.close()
             for line in lines[4:]:
                 wv_mpi.append(.1*float(line.split()[0]))
                 xs_mpi.append(float(line.split()[1]))
@@ -310,7 +312,8 @@ class MPI_Mainz():
         try:
             file = self.folder+species+'/'+species+'_zahnle.abs'
             fil = open(file,'r')
-            lines = fil.readliness()
+            lines = fil.readlines()
+            fil.close()
             for line in lines[2:]:
                 wv_zahnle.append(.1*float(line.split()[0]))
                 xs_zahnle.append(float(line.split()[1]))
