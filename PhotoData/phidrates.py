@@ -11,11 +11,11 @@ class phidrates():
         fil = open(rootdir+'phidrates/phidrates.txt','r')
         lines = fil.readlines()
         fil.close()
-        species = [[ln.strip() for ln in line.strip().split('|')][0] for line in lines]
+        self.all_species = [[ln.strip() for ln in line.strip().split('|')][0] for line in lines]
 
         # find species
         try:
-            spec_ind = species.index(spec)
+            spec_ind = self.all_species.index(spec)
         except:
             sys.exit(spec+' not in phidrates database')
 
@@ -238,6 +238,7 @@ class phidrates():
 
             qy_files = [file for file in os.listdir(folder+species+'/') if file.endswith(".QY.dat")]
             prods = ['/'.join(qy.strip('.QY.dat').split('_')[2:]) for qy in qy_files]
+            reacs = [' + '.join(qy.strip('.QY.dat').split('_')[2:]) for qy in qy_files]
             wvs = []
             qys = []
             for file in qy_files:
@@ -259,11 +260,14 @@ class phidrates():
             atmos_data['cross section'] = np.interp(wavs,wv_vpl,xs_vpl)
             for i,prod in enumerate(prods):
                 atmos_data[prod] = np.interp(wavs,wvs[i],qys[i])
-            self.atmos_data = atmos_data
-            self.atmos_branches = prods
+                
+            self.atmos = rx()
+            self.atmos.data = atmos_data
+            self.atmos.branches = prods
+            self.atmos.reactions = reacs
         except:
             print('Failed to get atmos data')
-            self.atmos_data = {}
+            self.atmos = rx()
             pass
         
         

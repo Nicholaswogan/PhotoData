@@ -66,8 +66,10 @@ class MPI_Mainz():
             # only consider data that is a function of wavelength
             if details[3].text.find('-')<0 and \
                details[-1].text.find('-')>0:
-
-                tempp = float(details[3].text[:-1])
+                try:
+                    tempp = float(details[3].text[:-1])
+                except ValueError:
+                    tempp = 300
                 if tempp>self.T_low and tempp<self.T_high:
                     try:
                         paper = parsed.table.find_all('tr')[i].find_all('td')[2].text
@@ -139,6 +141,14 @@ class MPI_Mainz():
         out['bibtex'] = refs
 
         self.all_data = out
+        
+        # flatten data
+        self.all_wv = np.array([item for w in wv for item in w])
+        self.all_xs = np.array([item for w in xs for item in w])
+        temps = np.array([])
+        for i in range(len(temp1)):
+            temps = np.append(temps,np.ones(len(wv[i]))*temp1[i])
+        self.all_temps = temps
 
         if output:
             return out
@@ -338,12 +348,9 @@ class MPI_Mainz():
         xs = self.all_data['cross section']
         temp = self.all_data['temperature']
 
-        # flatten data
-        wv1 = np.array([item for w in wv for item in w])
-        xs1 = np.array([item for w in xs for item in w])
-        temps = np.array([])
-        for i in range(len(temp)):
-            temps = np.append(temps,np.ones(len(wv[i]))*temp[i])
+        wv1 = self.all_wv
+        xs1 = self.all_xs
+        temps = self.all_temps
 
         plt.rcParams.update({'font.size': 15})
         if plot_atmos:
