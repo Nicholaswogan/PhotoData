@@ -25,7 +25,7 @@ class MPI_Mainz():
         self.folder = rootdir+'XSECTIONS_alinc/'
 
         # search for species
-        search = 'http://satellite.mpic.de/spectral_atlas/search_species.html?csrfmiddlewaretoken=XoIbYIQE4Ptu7U1SqBsdhPR1Qd1L4O5ehgGbvsFJhDwXvlQdFWDjmtNUxjaS4eJ4&x=0&y=0&search='+species
+        search = 'https://uv-vis-spectral-atlas-mainz.org/uvvis/search_species.html?csrfmiddlewaretoken=k6ilihVEfSjQXFJuVwD2vMmlihTQOkjR3scabAhJwxqs2XtQ1IZFQzkO0o1BUXMG&x=0&y=0&search='+species
         r1 = requests.get(search)
         html1 = r1.text
         ind1 = html1.find('results for')
