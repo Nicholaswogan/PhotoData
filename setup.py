@@ -12,6 +12,6 @@ requirements = ['bs4','doi2bib','tabulate']
 
 setup(name = 'PhotoData',
     packages=['PhotoData'],
-    version='0.2.1',
+    version='0.2.2',
     install_requires = requirements,
     configuration=configuration)
