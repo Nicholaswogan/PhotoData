@@ -51,7 +51,7 @@ class phidrates():
             sys.exit('here')
 
         # separate into ion and non-ion reactions
-        neutral_inds = [i for i,name in enumerate(name_branches) if name.find('/')>-1 and name.find('+')==-1]
+        neutral_inds = [i for i,name in enumerate(name_branches) if (name.find('/')>-1 and name.find('+')==-1) or name=='SO2band']
         ion_inds = [i for i in range(len(name_branches)) if i not in neutral_inds and name_branches[i] != 'Total']
 
         # get data
