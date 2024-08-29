@@ -60,15 +60,13 @@ class phidrates():
             # nm
             data['wavelength'] = np.array([float(dat.strip().split()[0])/10. for dat in file[inds[-1]+2:]])
             data['Total'] = np.array([float(dat.strip().split()[1]) for dat in file[inds[-1]+2:]])
-            factors = np.array([])
+            totals = []
             for i,dat in enumerate(file[inds[-1]+2:]):
                 temp = np.sum([float(da) for da in dat.strip().split()[2:]])
-                factor = data['Total'][i]/temp
-                if factor > 1.1 or factor < 0.9:
-                    print('Warning! Quantum yields not summing to 1 for '+spec)
-                factors = np.append(factors,factor)
+                totals.append(temp)
+            totals = np.array(totals)
             for i,name in enumerate(name_branches[1:]):
-                data[name] = np.array([float(dat.strip().split()[i+2]) for dat in file[inds[-1]+2:]])/data['Total']
+                data[name] = np.array([float(dat.strip().split()[i+2]) for dat in file[inds[-1]+2:]])/totals
                 if np.max(data[name])>1.1:
                     print('Warning! Quantum yields not summing to 1 for '+spec)
         else:
