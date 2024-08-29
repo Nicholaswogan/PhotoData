@@ -48,7 +48,7 @@ class MPI_Mainz():
             sys.exit('Species not found in MPI-Mainz database')
 
     def get_data(self,output = False):
-        url = 'http://satellite.mpic.de/spectral_atlas/'+self.spurl
+        url = 'https://uv-vis-spectral-atlas-mainz.org/uvvis/'+self.spurl
         r = requests.get(url)
         html = r.text
         ind1 = html.find('Data Sets:')
@@ -83,7 +83,7 @@ class MPI_Mainz():
                         papers = papers[:len(temp)]
                         pass
 
-        pre = 'http://joseba.mpch-mainz.mpg.de/spectral_atlas_data/'
+        pre = 'https://uv-vis-spectral-atlas-mainz.org/uvvis_data/'
 
         yr1 = []
         files1 = []
@@ -118,7 +118,7 @@ class MPI_Mainz():
 
                 # get a bibtex citation
                 try:
-                    pre_details = 'http://satellite.mpic.de/spectral_atlas/'
+                    pre_details = 'https://uv-vis-spectral-atlas-mainz.org/uvvis/'
                     rr = requests.get(pre_details+files[i])
                     ind1 = [m.start() for m in re.finditer('DOI', rr.text)][1]
                     ind2 = rr.text[ind1:].find('</a>')+ind1+4
